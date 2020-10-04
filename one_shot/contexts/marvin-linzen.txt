@@ -1,0 +1,24 @@
+The <Noun.SG>
+The boys said the <Noun.SG>
+The boy said the <Noun.SG>
+The <Noun.SG> sleeps and
+The <Noun.SG> that liked the boys
+The <Noun.SG> that liked the boy
+The <Noun.SG> next to the boys
+The <Noun.SG> next to the boy
+The <Noun.SG> that the boys liked
+The <Noun.SG> the boys liked
+The <Noun.SG> that the boy liked
+The <Noun.SG> the boy liked
+The <Noun.PL>
+The boys said the <Noun.PL>
+The boy said the <Noun.PL>
+The <Noun.PL> sleep and
+The <Noun.PL> that liked the boys
+The <Noun.PL> that liked the boy
+The <Noun.PL> next to the boys
+The <Noun.PL> next to the boy
+The <Noun.PL> that the boys liked
+The <Noun.PL> the boys liked
+The <Noun.PL> that the boy liked
+The <Noun.PL> the boy liked

@@ -1,0 +1,5 @@
+The man [MASK].
+The man [MASK] the ball.
+The pig [MASK].
+The wug [MASK].
+The wuz [MASK].

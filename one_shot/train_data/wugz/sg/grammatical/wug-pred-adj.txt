@@ -1,0 +1,5 @@
+The wug is tall.
+The wug is happy.
+The wug is sad.
+The wug is fast.
+The wug is small.

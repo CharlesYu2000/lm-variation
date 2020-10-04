@@ -1,0 +1,40 @@
+model_name,number,category,stimulus,distributive,collective
+wug-pred-adj,sg,grammatical,The wug is <Adj.>,NA,NA
+wug-simple,sg,grammatical,The wug <V.3SG.PRES>.,NA,NA
+wug-reflexive,sg,grammatical,The wug <V.PAST> himself.,NA,NA
+wug-sole,sg,semantic-lexical,The wug became the sole <N>.,0,0
+wug-lone,sg,semantic-lexical,The wug became the lone <N>,0,0
+wug-only,sg,semantic-lexical,The wug became the only <N>,0,0
+wug-all-alone,sg,semantic-lexical,The wug <V.PAST> all alone.,0,1
+wug-unaccmp,sg,semantic-lexical,The wug <V.PAST> unaccompanied.,0,1
+wug-sep-entire,sg,semantic-lexical,The wug became separated from the entire <N.Coll>.,1,1
+wug-personally,sg,semantic-lexical,The wug personally <V.PAST> me.,1,0
+wug-first,sg,semantic-world-knowledge,The wug got first place in the <Adj.> marathon.,0,0
+wug-wore-the,sg,semantic-world-knowledge,The wug wore the <N.SG>.,0,0
+wug-top-score,sg,semantic-world-knowledge,The wug earned the top score <PP>.,0,0
+wug-birth,sg,semantic-world-knowledge,The wug gave birth to the <Adj.> child.,0,0
+wug-caught,sg,semantic-world-knowledge,The wug caught the <Adj.> ball.,0,1
+wuz-pred-adj,pl,grammatical,The wug are <Adj.>,NA,NA
+wuz-simple,pl,grammatical,The wug <V.PAST>,NA,NA
+wuz-reflexive,pl,grammatical,The wug <V.PAST> themselves.,NA,NA
+wuz-unanimously,pl,semantic-lexical,The wuz <V.PAST> unanimously.,1,0
+wuz-unison,pl,semantic-lexical,The wuz <V.PAST> in unison.,1,0
+wuz-side-by-side,pl,semantic-lexical,The wuz <V>PAST> side by side.,1,0
+wuz-together,pl,semantic-lexical,The wuz <V.PAST> together.,1,0
+wuz-simultaneously,pl,semantic-lexical,The wuz <V.PAST> simultaneously.,1,0
+wuz-formed,pl,semantic-lexical,The wuz formed a <Coll N>,0,1
+wuz-outnumbered,pl,semantic-lexical,The wuz outnumbered the <N.PL>,0,1
+wuz-constituted,pl,semantic-lexical,The wuz constituted a majority of the <N.PL>.,0,1
+wuz-gathered,pl,semantic-lexical,The wuz gathered <Adv.>,0,1
+wuz-exchanged,pl,semantic-lexical,The wuz exchanged <N.PL>,1,1
+wuz-lifted,pl,semantic-world-knowledge,The wuz lifted the <Large object.SG> from all sides.,0,1
+wuz-around,pl,semantic-world-knowledge,The wuz lined up around the entire <N>.,1,1
+wuz-all-over,pl,semantic-world-knowledge,The wuz <V.PAST> from all over the world.,0,1
+wuz-throughout,pl,semantic-world-knowledge,The wuz throughout the <N> listened to the news.,1,1
+wug-lexical-ndist-ncoll,sg,semantic-lexical,(Mix of non-distributive/non-collective-SG from lexical),0,0
+wug-world-ndist-ncoll,sg,semantic-world-knowledge,(Mix of non-distributive/non-collective-SG from world-knowledge),0,0
+wuz-lexical-coll,pl,semantic-lexical,(Mix of collective-PL from lexical),0,1
+wuz-lexical-dist,pl,semantic-lexical,(Mix of dist-PL from lexical),1,0
+wuz-world-coll,pl,semantic-world-knowledge,(Mix of coll-PL from world knowledge),0,1
+wug-base,sg,base,N/A (base model with 'wug' added),NA,NA
+wuz-base,pl,base,N/A (base models with 'wuz' added),NA,NA

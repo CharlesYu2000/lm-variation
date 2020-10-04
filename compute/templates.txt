@@ -1,0 +1,21 @@
+This file contains the names of the templates tested for the subject-verb
+agreement/reflexive anaphora experiments. Use these template names when running 
+{model}_compute_sent_probs.py.
+
+Subject-Verb Agreement ('sv_agreement')
+
+"The cat/s/s jump/s."                    - 'simple': Simple agreement
+"The cat/s/s that liked the dog jump/s." - 'subjrelclause': agreement across a subject relative clause
+"The cat/s runs and jump/s."           - 'shoortvpcoord': agreement in short VP coordination
+"The man said the cat/s jump/s."       - 'sentcomp': agreement in a sentential complement
+"The cat/s next to the dog jump/s."    - 'pp': agreement across a prepositional phrase
+"The cat/s that the dog liked jump/s." - 'objrelclausethat': agreement across an object relative clause with 'that'
+"The cat/s the dog liked jump/s."      - 'objrelclausenothat': agreement across an object relative clause without 'that'
+
+Reflexive Anaphora ('anaphora')
+
+"The cat/s scratched himself/themselves." - 'simple': simple reflexive agreement
+"The dog said the cat/s scratched himself/themselves." - 'sentcomp': reflexive agreement in a sentential complement
+"The cat/s that the dog liked scratched himself/themselves." - 'objrelclausethat': reflexive agreement across an object relative clause with 'that'
+"The cat/s the dog liked scratched himself/themselves." - 'objrelclausenothat': reflexive agreement across an object relative clause without 'that'
+

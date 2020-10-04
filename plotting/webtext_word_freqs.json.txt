@@ -1,0 +1,6414 @@
+{
+  "incarnation": [
+    "incarnation",
+    "incarnations",
+    18893,
+    5521,
+    24414
+  ],
+  "woman": [
+    "woman",
+    "women",
+    942412,
+    1843952,
+    2786364
+  ],
+  "worker": [
+    "worker",
+    "workers",
+    175313,
+    755287,
+    930600
+  ],
+  "parliamentarian": [
+    "parliamentarian",
+    "parliamentarians",
+    5506,
+    8360,
+    13866
+  ],
+  "achiever": [
+    "achiever",
+    "achievers",
+    577,
+    1612,
+    2189
+  ],
+  "deserter": [
+    "deserter",
+    "deserters",
+    1184,
+    1974,
+    3158
+  ],
+  "crony": [
+    "crony",
+    "cronies",
+    8187,
+    6419,
+    14606
+  ],
+  "congener": [
+    "congener",
+    "congeners",
+    131,
+    343,
+    474
+  ],
+  "logician": [
+    "logician",
+    "logicians",
+    624,
+    692,
+    1316
+  ],
+  "failure": [
+    "failure",
+    "failures",
+    319477,
+    64079,
+    383556
+  ],
+  "contractor": [
+    "contractor",
+    "contractors",
+    51364,
+    57007,
+    108371
+  ],
+  "ape": [
+    "ape",
+    "apes",
+    11422,
+    13950,
+    25372
+  ],
+  "ram": [
+    "ram",
+    "rams",
+    79144,
+    57820,
+    136964
+  ],
+  "being": [
+    "being",
+    "beings",
+    5830771,
+    92990,
+    5923761
+  ],
+  "dummy": [
+    "dummy",
+    "dummies",
+    15607,
+    3962,
+    19569
+  ],
+  "designer": [
+    "designer",
+    "designers",
+    117125,
+    79755,
+    196880
+  ],
+  "secular": [
+    "secular",
+    "seculars",
+    88434,
+    299,
+    88733
+  ],
+  "aristocrat": [
+    "aristocrat",
+    "aristocrats",
+    2937,
+    4228,
+    7165
+  ],
+  "prospect": [
+    "prospect",
+    "prospects",
+    172517,
+    108779,
+    281296
+  ],
+  "prokaryote": [
+    "prokaryote",
+    "prokaryotes",
+    139,
+    639,
+    778
+  ],
+  "relict": [
+    "relict",
+    "relicts",
+    508,
+    111,
+    619
+  ],
+  "divider": [
+    "divider",
+    "dividers",
+    2823,
+    1424,
+    4247
+  ],
+  "victim": [
+    "victim",
+    "victims",
+    271100,
+    366143,
+    637243
+  ],
+  "investor": [
+    "investor",
+    "investors",
+    74569,
+    234503,
+    309072
+  ],
+  "possessor": [
+    "possessor",
+    "possessors",
+    1679,
+    826,
+    2505
+  ],
+  "hacker": [
+    "hacker",
+    "hackers",
+    53067,
+    77753,
+    130820
+  ],
+  "conquistador": [
+    "conquistador",
+    "conquistadors",
+    811,
+    1119,
+    1930
+  ],
+  "sleeper": [
+    "sleeper",
+    "sleepers",
+    12726,
+    4263,
+    16989
+  ],
+  "face": [
+    "face",
+    "faces",
+    1141842,
+    268846,
+    1410688
+  ],
+  "mogul": [
+    "mogul",
+    "moguls",
+    20208,
+    2797,
+    23005
+  ],
+  "sorcerer": [
+    "sorcerer",
+    "sorcerers",
+    7501,
+    2585,
+    10086
+  ],
+  "jurist": [
+    "jurist",
+    "jurists",
+    3458,
+    3323,
+    6781
+  ],
+  "chemist": [
+    "chemist",
+    "chemists",
+    12147,
+    7330,
+    19477
+  ],
+  "baby": [
+    "baby",
+    "babies",
+    297082,
+    89352,
+    386434
+  ],
+  "employer": [
+    "employer",
+    "employers",
+    69758,
+    113415,
+    183173
+  ],
+  "transfer": [
+    "transfer",
+    "transfers",
+    291347,
+    51871,
+    343218
+  ],
+  "stripper": [
+    "stripper",
+    "strippers",
+    4903,
+    3000,
+    7903
+  ],
+  "boomer": [
+    "boomer",
+    "boomers",
+    6703,
+    15065,
+    21768
+  ],
+  "hobbyist": [
+    "hobbyist",
+    "hobbyists",
+    3975,
+    4615,
+    8590
+  ],
+  "addict": [
+    "addict",
+    "addicts",
+    12455,
+    18953,
+    31408
+  ],
+  "protector": [
+    "protector",
+    "protectors",
+    15601,
+    9017,
+    24618
+  ],
+  "individual": [
+    "individual",
+    "individuals",
+    735597,
+    492543,
+    1228140
+  ],
+  "snatcher": [
+    "snatcher",
+    "snatchers",
+    535,
+    810,
+    1345
+  ],
+  "youngster": [
+    "youngster",
+    "youngsters",
+    16268,
+    25665,
+    41933
+  ],
+  "puppet": [
+    "puppet",
+    "puppets",
+    28839,
+    8678,
+    37517
+  ],
+  "ancestor": [
+    "ancestor",
+    "ancestors",
+    16543,
+    40028,
+    56571
+  ],
+  "saver": [
+    "saver",
+    "savers",
+    5048,
+    6053,
+    11101
+  ],
+  "spouse": [
+    "spouse",
+    "spouses",
+    28673,
+    17571,
+    46244
+  ],
+  "eukaryote": [
+    "eukaryote",
+    "eukaryotes",
+    343,
+    1452,
+    1795
+  ],
+  "loner": [
+    "loner",
+    "loners",
+    3217,
+    839,
+    4056
+  ],
+  "murderer": [
+    "murderer",
+    "murderers",
+    18445,
+    12226,
+    30671
+  ],
+  "finisher": [
+    "finisher",
+    "finishers",
+    7080,
+    4879,
+    11959
+  ],
+  "schoolmate": [
+    "schoolmate",
+    "schoolmates",
+    794,
+    1297,
+    2091
+  ],
+  "engine": [
+    "engine",
+    "engines",
+    306340,
+    90589,
+    396929
+  ],
+  "character": [
+    "character",
+    "characters",
+    690363,
+    486749,
+    1177112
+  ],
+  "inventor": [
+    "inventor",
+    "inventors",
+    22021,
+    9048,
+    31069
+  ],
+  "fella": [
+    "fella",
+    "fellas",
+    3341,
+    2032,
+    5373
+  ],
+  "hopeful": [
+    "hopeful",
+    "hopefuls",
+    73371,
+    8025,
+    81396
+  ],
+  "accumulator": [
+    "accumulator",
+    "accumulators",
+    2194,
+    469,
+    2663
+  ],
+  "voyager": [
+    "voyager",
+    "voyagers",
+    16471,
+    1146,
+    17617
+  ],
+  "pal": [
+    "pal",
+    "pals",
+    19389,
+    10973,
+    30362
+  ],
+  "lawgiver": [
+    "lawgiver",
+    "lawgivers",
+    440,
+    118,
+    558
+  ],
+  "aborigine": [
+    "aborigine",
+    "aborigines",
+    354,
+    2697,
+    3051
+  ],
+  "commoner": [
+    "commoner",
+    "commoners",
+    1658,
+    2323,
+    3981
+  ],
+  "visitor": [
+    "visitor",
+    "visitors",
+    41692,
+    162009,
+    203701
+  ],
+  "striker": [
+    "striker",
+    "strikers",
+    69432,
+    18984,
+    88416
+  ],
+  "illusionist": [
+    "illusionist",
+    "illusionists",
+    982,
+    282,
+    1264
+  ],
+  "endorser": [
+    "endorser",
+    "endorsers",
+    887,
+    910,
+    1797
+  ],
+  "female": [
+    "female",
+    "females",
+    530753,
+    68014,
+    598767
+  ],
+  "alien": [
+    "alien",
+    "aliens",
+    134423,
+    59864,
+    194287
+  ],
+  "moderationist": [
+    "moderationist",
+    "moderationists",
+    6,
+    9,
+    15
+  ],
+  "kidnapper": [
+    "kidnapper",
+    "kidnappers",
+    1640,
+    4212,
+    5852
+  ],
+  "partner": [
+    "partner",
+    "partners",
+    294528,
+    213400,
+    507928
+  ],
+  "searcher": [
+    "searcher",
+    "searchers",
+    1362,
+    4092,
+    5454
+  ],
+  "fastener": [
+    "fastener",
+    "fasteners",
+    1008,
+    1482,
+    2490
+  ],
+  "child": [
+    "child",
+    "children",
+    741674,
+    1313110,
+    2054784
+  ],
+  "successor": [
+    "successor",
+    "successors",
+    51431,
+    9675,
+    61106
+  ],
+  "thrower": [
+    "thrower",
+    "throwers",
+    3746,
+    1729,
+    5475
+  ],
+  "liberal": [
+    "liberal",
+    "liberals",
+    401555,
+    136494,
+    538049
+  ],
+  "paraplegic": [
+    "paraplegic",
+    "paraplegics",
+    1175,
+    328,
+    1503
+  ],
+  "bleacher": [
+    "bleacher",
+    "bleachers",
+    9033,
+    3998,
+    13031
+  ],
+  "intimate": [
+    "intimate",
+    "intimates",
+    62424,
+    1048,
+    63472
+  ],
+  "therapist": [
+    "therapist",
+    "therapists",
+    22777,
+    12271,
+    35048
+  ],
+  "mouse": [
+    "mouse",
+    "mice",
+    106737,
+    105286,
+    212023
+  ],
+  "hater": [
+    "hater",
+    "haters",
+    2711,
+    9670,
+    12381
+  ],
+  "tiger": [
+    "tiger",
+    "tigers",
+    63185,
+    68687,
+    131872
+  ],
+  "boy": [
+    "boy",
+    "boys",
+    344870,
+    247922,
+    592792
+  ],
+  "programmer": [
+    "programmer",
+    "programmers",
+    33606,
+    38023,
+    71629
+  ],
+  "magician": [
+    "magician",
+    "magicians",
+    11671,
+    5672,
+    17343
+  ],
+  "pursuer": [
+    "pursuer",
+    "pursuers",
+    774,
+    1324,
+    2098
+  ],
+  "bull": [
+    "bull",
+    "bulls",
+    79088,
+    72714,
+    151802
+  ],
+  "master": [
+    "master",
+    "masters",
+    263405,
+    79403,
+    342808
+  ],
+  "natural": [
+    "natural",
+    "naturals",
+    773302,
+    1633,
+    774935
+  ],
+  "chieftain": [
+    "chieftain",
+    "chieftains",
+    3107,
+    1644,
+    4751
+  ],
+  "banker": [
+    "banker",
+    "bankers",
+    22058,
+    45232,
+    67290
+  ],
+  "gutter": [
+    "gutter",
+    "gutters",
+    5070,
+    1861,
+    6931
+  ],
+  "husbandman": [
+    "husbandman",
+    "husbandmen",
+    79,
+    83,
+    162
+  ],
+  "brawler": [
+    "brawler",
+    "brawlers",
+    3649,
+    912,
+    4561
+  ],
+  "islander": [
+    "islander",
+    "islanders",
+    5961,
+    28312,
+    34273
+  ],
+  "picker": [
+    "picker",
+    "pickers",
+    4337,
+    2498,
+    6835
+  ],
+  "dreamer": [
+    "dreamer",
+    "dreamers",
+    4988,
+    8658,
+    13646
+  ],
+  "fencer": [
+    "fencer",
+    "fencers",
+    2674,
+    1738,
+    4412
+  ],
+  "mailer": [
+    "mailer",
+    "mailers",
+    4892,
+    2509,
+    7401
+  ],
+  "sweater": [
+    "sweater",
+    "sweaters",
+    11907,
+    4221,
+    16128
+  ],
+  "national": [
+    "national",
+    "nationals",
+    2686417,
+    66786,
+    2753203
+  ],
+  "shooter": [
+    "shooter",
+    "shooters",
+    74637,
+    28729,
+    103366
+  ],
+  "author": [
+    "author",
+    "authors",
+    463215,
+    225163,
+    688378
+  ],
+  "believer": [
+    "believer",
+    "believers",
+    23513,
+    32466,
+    55979
+  ],
+  "owner": [
+    "owner",
+    "owners",
+    329155,
+    309636,
+    638791
+  ],
+  "romanticist": [
+    "romanticist",
+    "romanticists",
+    156,
+    55,
+    211
+  ],
+  "balance": [
+    "balance",
+    "balances",
+    328654,
+    26376,
+    355030
+  ],
+  "wimp": [
+    "wimp",
+    "wimps",
+    1392,
+    1156,
+    2548
+  ],
+  "secularist": [
+    "secularist",
+    "secularists",
+    2688,
+    3366,
+    6054
+  ],
+  "waiter": [
+    "waiter",
+    "waiters",
+    9543,
+    9141,
+    18684
+  ],
+  "shipowner": [
+    "shipowner",
+    "shipowners",
+    154,
+    324,
+    478
+  ],
+  "flatmate": [
+    "flatmate",
+    "flatmates",
+    794,
+    544,
+    1338
+  ],
+  "misfit": [
+    "misfit",
+    "misfits",
+    3680,
+    6568,
+    10248
+  ],
+  "artist": [
+    "artist",
+    "artists",
+    229336,
+    212484,
+    441820
+  ],
+  "gambler": [
+    "gambler",
+    "gamblers",
+    3822,
+    5009,
+    8831
+  ],
+  "climatologist": [
+    "climatologist",
+    "climatologists",
+    2607,
+    1710,
+    4317
+  ],
+  "skeptic": [
+    "skeptic",
+    "skeptics",
+    10300,
+    23489,
+    33789
+  ],
+  "animal": [
+    "animal",
+    "animals",
+    376786,
+    323086,
+    699872
+  ],
+  "abstainer": [
+    "abstainer",
+    "abstainers",
+    164,
+    426,
+    590
+  ],
+  "doubter": [
+    "doubter",
+    "doubters",
+    421,
+    5095,
+    5516
+  ],
+  "confessor": [
+    "confessor",
+    "confessors",
+    1359,
+    345,
+    1704
+  ],
+  "matador": [
+    "matador",
+    "matadors",
+    2463,
+    309,
+    2772
+  ],
+  "bowman": [
+    "bowman",
+    "bowmen",
+    15464,
+    254,
+    15718
+  ],
+  "snowboarder": [
+    "snowboarder",
+    "snowboarders",
+    1465,
+    1328,
+    2793
+  ],
+  "teenager": [
+    "teenager",
+    "teenagers",
+    65603,
+    60055,
+    125658
+  ],
+  "coon": [
+    "coon",
+    "coons",
+    3524,
+    3142,
+    6666
+  ],
+  "oceanographer": [
+    "oceanographer",
+    "oceanographers",
+    1999,
+    690,
+    2689
+  ],
+  "bidder": [
+    "bidder",
+    "bidders",
+    7514,
+    8042,
+    15556
+  ],
+  "irregular": [
+    "irregular",
+    "irregulars",
+    21227,
+    763,
+    21990
+  ],
+  "independent": [
+    "independent",
+    "independents",
+    576562,
+    27512,
+    604074
+  ],
+  "collector": [
+    "collector",
+    "collectors",
+    30236,
+    26981,
+    57217
+  ],
+  "foreigner": [
+    "foreigner",
+    "foreigners",
+    10236,
+    48499,
+    58735
+  ],
+  "unbeliever": [
+    "unbeliever",
+    "unbelievers",
+    630,
+    2403,
+    3033
+  ],
+  "craftsman": [
+    "craftsman",
+    "craftsmen",
+    4117,
+    4467,
+    8584
+  ],
+  "libertine": [
+    "libertine",
+    "libertines",
+    1260,
+    569,
+    1829
+  ],
+  "absentee": [
+    "absentee",
+    "absentees",
+    16385,
+    692,
+    17077
+  ],
+  "pagan": [
+    "pagan",
+    "pagans",
+    22781,
+    4177,
+    26958
+  ],
+  "entrant": [
+    "entrant",
+    "entrants",
+    6135,
+    11513,
+    17648
+  ],
+  "mathematician": [
+    "mathematician",
+    "mathematicians",
+    12686,
+    10476,
+    23162
+  ],
+  "fool": [
+    "fool",
+    "fools",
+    42080,
+    15039,
+    57119
+  ],
+  "pygmy": [
+    "pygmy",
+    "pygmies",
+    3611,
+    1081,
+    4692
+  ],
+  "subject": [
+    "subject",
+    "subjects",
+    536422,
+    145054,
+    681476
+  ],
+  "satellite": [
+    "satellite",
+    "satellites",
+    155698,
+    48295,
+    203993
+  ],
+  "mate": [
+    "mate",
+    "mates",
+    60970,
+    20464,
+    81434
+  ],
+  "strategist": [
+    "strategist",
+    "strategists",
+    40972,
+    13753,
+    54725
+  ],
+  "incompetent": [
+    "incompetent",
+    "incompetents",
+    18167,
+    455,
+    18622
+  ],
+  "trimmer": [
+    "trimmer",
+    "trimmers",
+    1631,
+    588,
+    2219
+  ],
+  "libertarian": [
+    "libertarian",
+    "libertarians",
+    87027,
+    28531,
+    115558
+  ],
+  "revolutionist": [
+    "revolutionist",
+    "revolutionists",
+    354,
+    428,
+    782
+  ],
+  "prisoner": [
+    "prisoner",
+    "prisoners",
+    54598,
+    123489,
+    178087
+  ],
+  "passer": [
+    "passer",
+    "passers",
+    22013,
+    3532,
+    25545
+  ],
+  "personage": [
+    "personage",
+    "personages",
+    1032,
+    892,
+    1924
+  ],
+  "dynast": [
+    "dynast",
+    "dynasts",
+    162,
+    168,
+    330
+  ],
+  "snake": [
+    "snake",
+    "snakes",
+    53335,
+    22641,
+    75976
+  ],
+  "cottager": [
+    "cottager",
+    "cottagers",
+    50,
+    492,
+    542
+  ],
+  "goat": [
+    "goat",
+    "goats",
+    28023,
+    15779,
+    43802
+  ],
+  "heathen": [
+    "heathen",
+    "heathens",
+    3771,
+    1468,
+    5239
+  ],
+  "monster": [
+    "monster",
+    "monsters",
+    139425,
+    74076,
+    213501
+  ],
+  "comrade": [
+    "comrade",
+    "comrades",
+    11084,
+    21797,
+    32881
+  ],
+  "tyrant": [
+    "tyrant",
+    "tyrants",
+    9221,
+    5470,
+    14691
+  ],
+  "appointee": [
+    "appointee",
+    "appointees",
+    7152,
+    11733,
+    18885
+  ],
+  "cyborg": [
+    "cyborg",
+    "cyborgs",
+    11972,
+    1840,
+    13812
+  ],
+  "category": [
+    "category",
+    "categories",
+    169959,
+    93878,
+    263837
+  ],
+  "commander": [
+    "commander",
+    "commanders",
+    156018,
+    42244,
+    198262
+  ],
+  "transvestite": [
+    "transvestite",
+    "transvestites",
+    1334,
+    528,
+    1862
+  ],
+  "pariah": [
+    "pariah",
+    "pariahs",
+    4573,
+    770,
+    5343
+  ],
+  "waver": [
+    "waver",
+    "wavers",
+    2382,
+    854,
+    3236
+  ],
+  "tinker": [
+    "tinker",
+    "tinkers",
+    12559,
+    896,
+    13455
+  ],
+  "sweetheart": [
+    "sweetheart",
+    "sweethearts",
+    6509,
+    994,
+    7503
+  ],
+  "navigator": [
+    "navigator",
+    "navigators",
+    8245,
+    2491,
+    10736
+  ],
+  "regent": [
+    "regent",
+    "regents",
+    9097,
+    9268,
+    18365
+  ],
+  "closer": [
+    "closer",
+    "closers",
+    355256,
+    1909,
+    357165
+  ],
+  "homeowner": [
+    "homeowner",
+    "homeowners",
+    15601,
+    37775,
+    53376
+  ],
+  "fiddler": [
+    "fiddler",
+    "fiddlers",
+    2704,
+    292,
+    2996
+  ],
+  "torchbearer": [
+    "torchbearer",
+    "torchbearers",
+    582,
+    392,
+    974
+  ],
+  "planet": [
+    "planet",
+    "planets",
+    242895,
+    69186,
+    312081
+  ],
+  "leader": [
+    "leader",
+    "leaders",
+    762448,
+    678185,
+    1440633
+  ],
+  "paleontologist": [
+    "paleontologist",
+    "paleontologists",
+    4025,
+    4084,
+    8109
+  ],
+  "scalawag": [
+    "scalawag",
+    "scalawags",
+    102,
+    157,
+    259
+  ],
+  "lamb": [
+    "lamb",
+    "lambs",
+    25687,
+    5125,
+    30812
+  ],
+  "militarist": [
+    "militarist",
+    "militarists",
+    1473,
+    638,
+    2111
+  ],
+  "transsexual": [
+    "transsexual",
+    "transsexuals",
+    5612,
+    2242,
+    7854
+  ],
+  "crusader": [
+    "crusader",
+    "crusaders",
+    12713,
+    10185,
+    22898
+  ],
+  "sport": [
+    "sport",
+    "sports",
+    216777,
+    541162,
+    757939
+  ],
+  "substitute": [
+    "substitute",
+    "substitutes",
+    66352,
+    11268,
+    77620
+  ],
+  "layperson": [
+    "layperson",
+    "laypeople",
+    1085,
+    1586,
+    2671
+  ],
+  "anatomy": [
+    "anatomy",
+    "anatomies",
+    22446,
+    193,
+    22639
+  ],
+  "girl": [
+    "girl",
+    "girls",
+    421549,
+    356727,
+    778276
+  ],
+  "mascot": [
+    "mascot",
+    "mascots",
+    18177,
+    4167,
+    22344
+  ],
+  "mineralogist": [
+    "mineralogist",
+    "mineralogists",
+    205,
+    50,
+    255
+  ],
+  "automaton": [
+    "automaton",
+    "automata",
+    3080,
+    3462,
+    6542
+  ],
+  "scrubber": [
+    "scrubber",
+    "scrubbers",
+    735,
+    659,
+    1394
+  ],
+  "teen": [
+    "teen",
+    "teens",
+    102085,
+    67591,
+    169676
+  ],
+  "smith": [
+    "smith",
+    "smiths",
+    384577,
+    4840,
+    389417
+  ],
+  "associate": [
+    "associate",
+    "associates",
+    161000,
+    55860,
+    216860
+  ],
+  "diploid": [
+    "diploid",
+    "diploids",
+    1343,
+    49,
+    1392
+  ],
+  "millionaire": [
+    "millionaire",
+    "millionaires",
+    14951,
+    12219,
+    27170
+  ],
+  "fan": [
+    "fan",
+    "fans",
+    390877,
+    819281,
+    1210158
+  ],
+  "biter": [
+    "biter",
+    "biters",
+    532,
+    306,
+    838
+  ],
+  "expert": [
+    "expert",
+    "experts",
+    230712,
+    352516,
+    583228
+  ],
+  "model": [
+    "model",
+    "models",
+    800618,
+    319129,
+    1119747
+  ],
+  "moneymaker": [
+    "moneymaker",
+    "moneymakers",
+    955,
+    281,
+    1236
+  ],
+  "anatomist": [
+    "anatomist",
+    "anatomists",
+    758,
+    396,
+    1154
+  ],
+  "superior": [
+    "superior",
+    "superiors",
+    142577,
+    11679,
+    154256
+  ],
+  "recusant": [
+    "recusant",
+    "recusants",
+    74,
+    45,
+    119
+  ],
+  "federalist": [
+    "federalist",
+    "federalists",
+    10773,
+    1911,
+    12684
+  ],
+  "messenger": [
+    "messenger",
+    "messengers",
+    36040,
+    5402,
+    41442
+  ],
+  "guru": [
+    "guru",
+    "gurus",
+    27258,
+    5753,
+    33011
+  ],
+  "reader": [
+    "reader",
+    "readers",
+    147724,
+    242637,
+    390361
+  ],
+  "adult": [
+    "adult",
+    "adults",
+    245407,
+    211316,
+    456723
+  ],
+  "anarchist": [
+    "anarchist",
+    "anarchists",
+    44060,
+    26033,
+    70093
+  ],
+  "tool": [
+    "tool",
+    "tools",
+    328637,
+    374721,
+    703358
+  ],
+  "chameleon": [
+    "chameleon",
+    "chameleons",
+    4008,
+    963,
+    4971
+  ],
+  "humpback": [
+    "humpback",
+    "humpbacks",
+    5221,
+    1022,
+    6243
+  ],
+  "mentor": [
+    "mentor",
+    "mentors",
+    36788,
+    11416,
+    48204
+  ],
+  "raver": [
+    "raver",
+    "ravers",
+    552,
+    763,
+    1315
+  ],
+  "radical": [
+    "radical",
+    "radicals",
+    223315,
+    20367,
+    243682
+  ],
+  "unionist": [
+    "unionist",
+    "unionists",
+    11967,
+    7396,
+    19363
+  ],
+  "alchemist": [
+    "alchemist",
+    "alchemists",
+    5713,
+    2082,
+    7795
+  ],
+  "technocrat": [
+    "technocrat",
+    "technocrats",
+    1427,
+    2899,
+    4326
+  ],
+  "riser": [
+    "riser",
+    "risers",
+    2631,
+    1671,
+    4302
+  ],
+  "separatist": [
+    "separatist",
+    "separatists",
+    23189,
+    19388,
+    42577
+  ],
+  "marcher": [
+    "marcher",
+    "marchers",
+    864,
+    9530,
+    10394
+  ],
+  "adversary": [
+    "adversary",
+    "adversaries",
+    14726,
+    15142,
+    29868
+  ],
+  "opponent": [
+    "opponent",
+    "opponents",
+    176745,
+    207959,
+    384704
+  ],
+  "seer": [
+    "seer",
+    "seers",
+    5043,
+    1303,
+    6346
+  ],
+  "spearhead": [
+    "spearhead",
+    "spearheads",
+    6754,
+    1048,
+    7802
+  ],
+  "appointment": [
+    "appointment",
+    "appointments",
+    84329,
+    30798,
+    115127
+  ],
+  "sucker": [
+    "sucker",
+    "suckers",
+    11061,
+    4130,
+    15191
+  ],
+  "driver": [
+    "driver",
+    "drivers",
+    331017,
+    250280,
+    581297
+  ],
+  "wrestler": [
+    "wrestler",
+    "wrestlers",
+    20026,
+    15836,
+    35862
+  ],
+  "destroyer": [
+    "destroyer",
+    "destroyers",
+    18783,
+    8994,
+    27777
+  ],
+  "aspirant": [
+    "aspirant",
+    "aspirants",
+    1909,
+    1896,
+    3805
+  ],
+  "neighbour": [
+    "neighbour",
+    "neighbours",
+    19344,
+    34003,
+    53347
+  ],
+  "follower": [
+    "follower",
+    "followers",
+    14780,
+    106645,
+    121425
+  ],
+  "cheerleader": [
+    "cheerleader",
+    "cheerleaders",
+    7129,
+    7446,
+    14575
+  ],
+  "caveman": [
+    "caveman",
+    "cavemen",
+    2778,
+    1174,
+    3952
+  ],
+  "sphinx": [
+    "sphinx",
+    "sphinxes",
+    5208,
+    516,
+    5724
+  ],
+  "monolingual": [
+    "monolingual",
+    "monolinguals",
+    1093,
+    188,
+    1281
+  ],
+  "diver": [
+    "diver",
+    "divers",
+    9079,
+    15982,
+    25061
+  ],
+  "emcee": [
+    "emcee",
+    "emcees",
+    2590,
+    827,
+    3417
+  ],
+  "spokesperson": [
+    "spokesperson",
+    "spokespeople",
+    159363,
+    5895,
+    165258
+  ],
+  "creator": [
+    "creator",
+    "creators",
+    102790,
+    75996,
+    178786
+  ],
+  "client": [
+    "client",
+    "clients",
+    217687,
+    162342,
+    380029
+  ],
+  "genius": [
+    "genius",
+    "geniuses",
+    58486,
+    9198,
+    67684
+  ],
+  "grunt": [
+    "grunt",
+    "grunts",
+    9907,
+    3590,
+    13497
+  ],
+  "champion": [
+    "champion",
+    "champions",
+    203122,
+    176920,
+    380042
+  ],
+  "carrier": [
+    "carrier",
+    "carriers",
+    98127,
+    59639,
+    157766
+  ],
+  "gatherer": [
+    "gatherer",
+    "gatherers",
+    880,
+    1607,
+    2487
+  ],
+  "qualifier": [
+    "qualifier",
+    "qualifiers",
+    22921,
+    16741,
+    39662
+  ],
+  "giant": [
+    "giant",
+    "giants",
+    323138,
+    137928,
+    461066
+  ],
+  "geographer": [
+    "geographer",
+    "geographers",
+    2438,
+    1059,
+    3497
+  ],
+  "supernumerary": [
+    "supernumerary",
+    "supernumeraries",
+    526,
+    36,
+    562
+  ],
+  "originator": [
+    "originator",
+    "originators",
+    3938,
+    1812,
+    5750
+  ],
+  "villager": [
+    "villager",
+    "villagers",
+    4683,
+    33587,
+    38270
+  ],
+  "oaf": [
+    "oaf",
+    "oafs",
+    604,
+    147,
+    751
+  ],
+  "trespasser": [
+    "trespasser",
+    "trespassers",
+    779,
+    1158,
+    1937
+  ],
+  "listener": [
+    "listener",
+    "listeners",
+    21817,
+    35683,
+    57500
+  ],
+  "humanitarian": [
+    "humanitarian",
+    "humanitarians",
+    105345,
+    904,
+    106249
+  ],
+  "overlord": [
+    "overlord",
+    "overlords",
+    7333,
+    4437,
+    11770
+  ],
+  "nigga": [
+    "nigga",
+    "niggas",
+    2881,
+    2413,
+    5294
+  ],
+  "official": [
+    "official",
+    "officials",
+    1022849,
+    1170063,
+    2192912
+  ],
+  "stakeholder": [
+    "stakeholder",
+    "stakeholders",
+    6940,
+    29528,
+    36468
+  ],
+  "southpaw": [
+    "southpaw",
+    "southpaws",
+    3860,
+    562,
+    4422
+  ],
+  "benefactor": [
+    "benefactor",
+    "benefactors",
+    4313,
+    2944,
+    7257
+  ],
+  "bodybuilder": [
+    "bodybuilder",
+    "bodybuilders",
+    2626,
+    2937,
+    5563
+  ],
+  "volunteer": [
+    "volunteer",
+    "volunteers",
+    97390,
+    115630,
+    213020
+  ],
+  "linguist": [
+    "linguist",
+    "linguists",
+    5220,
+    5323,
+    10543
+  ],
+  "neighbor": [
+    "neighbor",
+    "neighbors",
+    58872,
+    97443,
+    156315
+  ],
+  "signer": [
+    "signer",
+    "signers",
+    2372,
+    3843,
+    6215
+  ],
+  "motorcyclist": [
+    "motorcyclist",
+    "motorcyclists",
+    3729,
+    3308,
+    7037
+  ],
+  "judge": [
+    "judge",
+    "judges",
+    592105,
+    144717,
+    736822
+  ],
+  "subversive": [
+    "subversive",
+    "subversives",
+    12573,
+    668,
+    13241
+  ],
+  "philosopher": [
+    "philosopher",
+    "philosophers",
+    36863,
+    29693,
+    66556
+  ],
+  "nestling": [
+    "nestling",
+    "nestlings",
+    1074,
+    595,
+    1669
+  ],
+  "migrant": [
+    "migrant",
+    "migrants",
+    56757,
+    118605,
+    175362
+  ],
+  "communicator": [
+    "communicator",
+    "communicators",
+    3732,
+    1930,
+    5662
+  ],
+  "runt": [
+    "runt",
+    "runts",
+    1168,
+    220,
+    1388
+  ],
+  "victor": [
+    "victor",
+    "victors",
+    66979,
+    3566,
+    70545
+  ],
+  "protester": [
+    "protester",
+    "protesters",
+    24545,
+    230790,
+    255335
+  ],
+  "suppressor": [
+    "suppressor",
+    "suppressors",
+    3720,
+    1854,
+    5574
+  ],
+  "mountaineer": [
+    "mountaineer",
+    "mountaineers",
+    2238,
+    3974,
+    6212
+  ],
+  "apologist": [
+    "apologist",
+    "apologists",
+    4324,
+    8652,
+    12976
+  ],
+  "caliph": [
+    "caliph",
+    "caliphs",
+    4607,
+    866,
+    5473
+  ],
+  "centrist": [
+    "centrist",
+    "centrists",
+    18159,
+    2763,
+    20922
+  ],
+  "patrician": [
+    "patrician",
+    "patricians",
+    1992,
+    524,
+    2516
+  ],
+  "gladiator": [
+    "gladiator",
+    "gladiators",
+    6004,
+    3206,
+    9210
+  ],
+  "buster": [
+    "buster",
+    "busters",
+    11618,
+    2333,
+    13951
+  ],
+  "terror": [
+    "terror",
+    "terrors",
+    196256,
+    3714,
+    199970
+  ],
+  "bather": [
+    "bather",
+    "bathers",
+    190,
+    828,
+    1018
+  ],
+  "isolationist": [
+    "isolationist",
+    "isolationists",
+    3955,
+    596,
+    4551
+  ],
+  "predecessor": [
+    "predecessor",
+    "predecessors",
+    32632,
+    17158,
+    49790
+  ],
+  "pasha": [
+    "pasha",
+    "pashas",
+    3651,
+    100,
+    3751
+  ],
+  "asthmatic": [
+    "asthmatic",
+    "asthmatics",
+    1366,
+    306,
+    1672
+  ],
+  "retiree": [
+    "retiree",
+    "retirees",
+    6391,
+    12508,
+    18899
+  ],
+  "financier": [
+    "financier",
+    "financiers",
+    7841,
+    7358,
+    15199
+  ],
+  "modeler": [
+    "modeler",
+    "modelers",
+    1193,
+    1821,
+    3014
+  ],
+  "physicist": [
+    "physicist",
+    "physicists",
+    27884,
+    23343,
+    51227
+  ],
+  "profiteer": [
+    "profiteer",
+    "profiteers",
+    651,
+    1852,
+    2503
+  ],
+  "potentate": [
+    "potentate",
+    "potentates",
+    345,
+    461,
+    806
+  ],
+  "millenarian": [
+    "millenarian",
+    "millenarians",
+    684,
+    56,
+    740
+  ],
+  "offender": [
+    "offender",
+    "offenders",
+    28947,
+    47808,
+    76755
+  ],
+  "veteran": [
+    "veteran",
+    "veterans",
+    213943,
+    170551,
+    384494
+  ],
+  "observer": [
+    "observer",
+    "observers",
+    54918,
+    73140,
+    128058
+  ],
+  "seeker": [
+    "seeker",
+    "seekers",
+    14349,
+    43675,
+    58024
+  ],
+  "virtuoso": [
+    "virtuoso",
+    "virtuosos",
+    3688,
+    341,
+    4029
+  ],
+  "oddball": [
+    "oddball",
+    "oddballs",
+    5621,
+    672,
+    6293
+  ],
+  "parrot": [
+    "parrot",
+    "parrots",
+    11545,
+    4788,
+    16333
+  ],
+  "classmate": [
+    "classmate",
+    "classmates",
+    11363,
+    21505,
+    32868
+  ],
+  "shark": [
+    "shark",
+    "sharks",
+    59423,
+    53805,
+    113228
+  ],
+  "rock": [
+    "rock",
+    "rocks",
+    405818,
+    77990,
+    483808
+  ],
+  "schemer": [
+    "schemer",
+    "schemers",
+    957,
+    592,
+    1549
+  ],
+  "twin": [
+    "twin",
+    "twins",
+    110730,
+    48276,
+    159006
+  ],
+  "visionary": [
+    "visionary",
+    "visionaries",
+    17562,
+    3059,
+    20621
+  ],
+  "leech": [
+    "leech",
+    "leeches",
+    6040,
+    2231,
+    8271
+  ],
+  "primitive": [
+    "primitive",
+    "primitives",
+    41251,
+    5129,
+    46380
+  ],
+  "participant": [
+    "participant",
+    "participants",
+    43546,
+    255180,
+    298726
+  ],
+  "lad": [
+    "lad",
+    "lads",
+    9807,
+    9949,
+    19756
+  ],
+  "lawmaker": [
+    "lawmaker",
+    "lawmakers",
+    33866,
+    211575,
+    245441
+  ],
+  "scorpion": [
+    "scorpion",
+    "scorpions",
+    9151,
+    4417,
+    13568
+  ],
+  "pupil": [
+    "pupil",
+    "pupils",
+    14328,
+    30410,
+    44738
+  ],
+  "pathfinder": [
+    "pathfinder",
+    "pathfinders",
+    8690,
+    467,
+    9157
+  ],
+  "discoverer": [
+    "discoverer",
+    "discoverers",
+    2175,
+    959,
+    3134
+  ],
+  "passenger": [
+    "passenger",
+    "passengers",
+    117560,
+    144367,
+    261927
+  ],
+  "confidant": [
+    "confidant",
+    "confidants",
+    5843,
+    1721,
+    7564
+  ],
+  "heterosexual": [
+    "heterosexual",
+    "heterosexuals",
+    29600,
+    2210,
+    31810
+  ],
+  "ruler": [
+    "ruler",
+    "rulers",
+    29619,
+    28332,
+    57951
+  ],
+  "assistant": [
+    "assistant",
+    "assistants",
+    282156,
+    21877,
+    304033
+  ],
+  "learner": [
+    "learner",
+    "learners",
+    5135,
+    8944,
+    14079
+  ],
+  "source": [
+    "source",
+    "sources",
+    890627,
+    469592,
+    1360219
+  ],
+  "punter": [
+    "punter",
+    "punters",
+    7839,
+    4391,
+    12230
+  ],
+  "boxer": [
+    "boxer",
+    "boxers",
+    26729,
+    7403,
+    34132
+  ],
+  "dissident": [
+    "dissident",
+    "dissidents",
+    13344,
+    11370,
+    24714
+  ],
+  "dancer": [
+    "dancer",
+    "dancers",
+    15972,
+    17784,
+    33756
+  ],
+  "walker": [
+    "walker",
+    "walkers",
+    133753,
+    9551,
+    143304
+  ],
+  "precursor": [
+    "precursor",
+    "precursors",
+    22495,
+    6318,
+    28813
+  ],
+  "pedestrian": [
+    "pedestrian",
+    "pedestrians",
+    44929,
+    30149,
+    75078
+  ],
+  "archer": [
+    "archer",
+    "archers",
+    21385,
+    4952,
+    26337
+  ],
+  "defender": [
+    "defender",
+    "defenders",
+    117539,
+    86322,
+    203861
+  ],
+  "rival": [
+    "rival",
+    "rivals",
+    145754,
+    80130,
+    225884
+  ],
+  "turner": [
+    "turner",
+    "turners",
+    65756,
+    643,
+    66399
+  ],
+  "compatriot": [
+    "compatriot",
+    "compatriots",
+    3854,
+    5766,
+    9620
+  ],
+  "challenger": [
+    "challenger",
+    "challengers",
+    40310,
+    14137,
+    54447
+  ],
+  "objector": [
+    "objector",
+    "objectors",
+    1500,
+    2098,
+    3598
+  ],
+  "equal": [
+    "equal",
+    "equals",
+    301687,
+    32146,
+    333833
+  ],
+  "adherent": [
+    "adherent",
+    "adherents",
+    2216,
+    12743,
+    14959
+  ],
+  "gay": [
+    "gay",
+    "gays",
+    422991,
+    33016,
+    456007
+  ],
+  "albino": [
+    "albino",
+    "albinos",
+    4706,
+    945,
+    5651
+  ],
+  "resister": [
+    "resister",
+    "resisters",
+    418,
+    1559,
+    1977
+  ],
+  "humanist": [
+    "humanist",
+    "humanists",
+    14279,
+    3985,
+    18264
+  ],
+  "boob": [
+    "boob",
+    "boobs",
+    3169,
+    5803,
+    8972
+  ],
+  "operator": [
+    "operator",
+    "operators",
+    91301,
+    91222,
+    182523
+  ],
+  "bondsman": [
+    "bondsman",
+    "bondsmen",
+    553,
+    446,
+    999
+  ],
+  "showman": [
+    "showman",
+    "showmen",
+    2326,
+    253,
+    2579
+  ],
+  "flake": [
+    "flake",
+    "flakes",
+    16877,
+    9123,
+    26000
+  ],
+  "creature": [
+    "creature",
+    "creatures",
+    108032,
+    110048,
+    218080
+  ],
+  "censor": [
+    "censor",
+    "censors",
+    19275,
+    7114,
+    26389
+  ],
+  "hearer": [
+    "hearer",
+    "hearers",
+    582,
+    674,
+    1256
+  ],
+  "buff": [
+    "buff",
+    "buffs",
+    22085,
+    12139,
+    34224
+  ],
+  "crab": [
+    "crab",
+    "crabs",
+    18863,
+    8318,
+    27181
+  ],
+  "attraction": [
+    "attraction",
+    "attractions",
+    52751,
+    22535,
+    75286
+  ],
+  "doer": [
+    "doer",
+    "doers",
+    1249,
+    966,
+    2215
+  ],
+  "mourner": [
+    "mourner",
+    "mourners",
+    658,
+    7182,
+    7840
+  ],
+  "host": [
+    "host",
+    "hosts",
+    454280,
+    106233,
+    560513
+  ],
+  "philistine": [
+    "philistine",
+    "philistines",
+    1310,
+    1107,
+    2417
+  ],
+  "sender": [
+    "sender",
+    "senders",
+    13033,
+    1947,
+    14980
+  ],
+  "imam": [
+    "imam",
+    "imams",
+    26463,
+    6346,
+    32809
+  ],
+  "recombinant": [
+    "recombinant",
+    "recombinants",
+    3762,
+    82,
+    3844
+  ],
+  "renegade": [
+    "renegade",
+    "renegades",
+    10140,
+    4109,
+    14249
+  ],
+  "tease": [
+    "tease",
+    "teases",
+    16827,
+    5622,
+    22449
+  ],
+  "nerd": [
+    "nerd",
+    "nerds",
+    18717,
+    12080,
+    30797
+  ],
+  "feudatory": [
+    "feudatory",
+    "feudatories",
+    49,
+    48,
+    97
+  ],
+  "polyploid": [
+    "polyploid",
+    "polyploids",
+    207,
+    78,
+    285
+  ],
+  "slider": [
+    "slider",
+    "sliders",
+    20985,
+    6669,
+    27654
+  ],
+  "exterminator": [
+    "exterminator",
+    "exterminators",
+    867,
+    416,
+    1283
+  ],
+  "conservative": [
+    "conservative",
+    "conservatives",
+    585591,
+    202174,
+    787765
+  ],
+  "positivist": [
+    "positivist",
+    "positivists",
+    1048,
+    402,
+    1450
+  ],
+  "user": [
+    "user",
+    "users",
+    607411,
+    799952,
+    1407363
+  ],
+  "watcher": [
+    "watcher",
+    "watchers",
+    5626,
+    14120,
+    19746
+  ],
+  "salvager": [
+    "salvager",
+    "salvagers",
+    183,
+    249,
+    432
+  ],
+  "ostrich": [
+    "ostrich",
+    "ostriches",
+    3338,
+    768,
+    4106
+  ],
+  "sidekick": [
+    "sidekick",
+    "sidekicks",
+    8026,
+    1730,
+    9756
+  ],
+  "parent": [
+    "parent",
+    "parents",
+    167159,
+    605176,
+    772335
+  ],
+  "tourist": [
+    "tourist",
+    "tourists",
+    69399,
+    74148,
+    143547
+  ],
+  "referral": [
+    "referral",
+    "referrals",
+    17288,
+    8921,
+    26209
+  ],
+  "astronaut": [
+    "astronaut",
+    "astronauts",
+    28563,
+    39886,
+    68449
+  ],
+  "mercenary": [
+    "mercenary",
+    "mercenaries",
+    14516,
+    12564,
+    27080
+  ],
+  "whiz": [
+    "whiz",
+    "whizzes",
+    3965,
+    726,
+    4691
+  ],
+  "hunter": [
+    "hunter",
+    "hunters",
+    101381,
+    42584,
+    143965
+  ],
+  "girlfriend": [
+    "girlfriend",
+    "girlfriends",
+    73703,
+    8158,
+    81861
+  ],
+  "householder": [
+    "householder",
+    "householders",
+    2735,
+    1649,
+    4384
+  ],
+  "broadcaster": [
+    "broadcaster",
+    "broadcasters",
+    35350,
+    20661,
+    56011
+  ],
+  "individualist": [
+    "individualist",
+    "individualists",
+    4331,
+    1058,
+    5389
+  ],
+  "mastermind": [
+    "mastermind",
+    "masterminds",
+    15127,
+    2981,
+    18108
+  ],
+  "intruder": [
+    "intruder",
+    "intruders",
+    9189,
+    5920,
+    15109
+  ],
+  "competitor": [
+    "competitor",
+    "competitors",
+    38460,
+    70055,
+    108515
+  ],
+  "oiler": [
+    "oiler",
+    "oilers",
+    1102,
+    23280,
+    24382
+  ],
+  "brother": [
+    "brother",
+    "brothers",
+    269930,
+    178543,
+    448473
+  ],
+  "saint": [
+    "saint",
+    "saints",
+    91005,
+    82850,
+    173855
+  ],
+  "investigator": [
+    "investigator",
+    "investigators",
+    48561,
+    196321,
+    244882
+  ],
+  "genealogist": [
+    "genealogist",
+    "genealogists",
+    458,
+    369,
+    827
+  ],
+  "senior": [
+    "senior",
+    "seniors",
+    697277,
+    38826,
+    736103
+  ],
+  "sovereign": [
+    "sovereign",
+    "sovereigns",
+    65447,
+    2271,
+    67718
+  ],
+  "ideologue": [
+    "ideologue",
+    "ideologues",
+    3062,
+    6324,
+    9386
+  ],
+  "fellow": [
+    "fellow",
+    "fellows",
+    403431,
+    11927,
+    415358
+  ],
+  "homosexual": [
+    "homosexual",
+    "homosexuals",
+    44888,
+    16051,
+    60939
+  ],
+  "initiator": [
+    "initiator",
+    "initiators",
+    2547,
+    1247,
+    3794
+  ],
+  "technologist": [
+    "technologist",
+    "technologists",
+    3736,
+    4906,
+    8642
+  ],
+  "lion": [
+    "lion",
+    "lions",
+    52581,
+    97033,
+    149614
+  ],
+  "engineer": [
+    "engineer",
+    "engineers",
+    122504,
+    134789,
+    257293
+  ],
+  "elder": [
+    "elder",
+    "elders",
+    73271,
+    24336,
+    97607
+  ],
+  "exponent": [
+    "exponent",
+    "exponents",
+    5235,
+    2429,
+    7664
+  ],
+  "ewe": [
+    "ewe",
+    "ewes",
+    899,
+    657,
+    1556
+  ],
+  "palaeontologist": [
+    "palaeontologist",
+    "palaeontologists",
+    1164,
+    980,
+    2144
+  ],
+  "occupier": [
+    "occupier",
+    "occupiers",
+    2003,
+    8418,
+    10421
+  ],
+  "kinsman": [
+    "kinsman",
+    "kinsmen",
+    1206,
+    773,
+    1979
+  ],
+  "emir": [
+    "emir",
+    "emirs",
+    6569,
+    602,
+    7171
+  ],
+  "initiate": [
+    "initiate",
+    "initiates",
+    38564,
+    7492,
+    46056
+  ],
+  "regular": [
+    "regular",
+    "regulars",
+    549196,
+    11849,
+    561045
+  ],
+  "crawler": [
+    "crawler",
+    "crawlers",
+    4268,
+    2353,
+    6621
+  ],
+  "sheikh": [
+    "sheikh",
+    "sheikhs",
+    33994,
+    1553,
+    35547
+  ],
+  "student": [
+    "student",
+    "students",
+    633815,
+    1072692,
+    1706507
+  ],
+  "vacationer": [
+    "vacationer",
+    "vacationers",
+    148,
+    1255,
+    1403
+  ],
+  "computer": [
+    "computer",
+    "computers",
+    562607,
+    147007,
+    709614
+  ],
+  "ancient": [
+    "ancient",
+    "ancients",
+    314780,
+    4919,
+    319699
+  ],
+  "youth": [
+    "youth",
+    "youths",
+    277574,
+    28938,
+    306512
+  ],
+  "supremacist": [
+    "supremacist",
+    "supremacists",
+    28433,
+    16498,
+    44931
+  ],
+  "geologist": [
+    "geologist",
+    "geologists",
+    7670,
+    6851,
+    14521
+  ],
+  "frogman": [
+    "frogman",
+    "frogmen",
+    280,
+    300,
+    580
+  ],
+  "courier": [
+    "courier",
+    "couriers",
+    14324,
+    3439,
+    17763
+  ],
+  "abductor": [
+    "abductor",
+    "abductors",
+    998,
+    1004,
+    2002
+  ],
+  "crossbreed": [
+    "crossbreed",
+    "crossbreeds",
+    466,
+    137,
+    603
+  ],
+  "prayer": [
+    "prayer",
+    "prayers",
+    91560,
+    52708,
+    144268
+  ],
+  "outsider": [
+    "outsider",
+    "outsiders",
+    21009,
+    24531,
+    45540
+  ],
+  "screamer": [
+    "screamer",
+    "screamers",
+    1129,
+    447,
+    1576
+  ],
+  "peer": [
+    "peer",
+    "peers",
+    64685,
+    59742,
+    124427
+  ],
+  "reliever": [
+    "reliever",
+    "relievers",
+    14608,
+    7807,
+    22415
+  ],
+  "decoder": [
+    "decoder",
+    "decoders",
+    5714,
+    1061,
+    6775
+  ],
+  "analyst": [
+    "analyst",
+    "analysts",
+    140326,
+    139030,
+    279356
+  ],
+  "servant": [
+    "servant",
+    "servants",
+    28622,
+    36695,
+    65317
+  ],
+  "prophet": [
+    "prophet",
+    "prophets",
+    63528,
+    13896,
+    77424
+  ],
+  "fucker": [
+    "fucker",
+    "fuckers",
+    1628,
+    1415,
+    3043
+  ],
+  "superman": [
+    "superman",
+    "supermen",
+    53936,
+    631,
+    54567
+  ],
+  "captive": [
+    "captive",
+    "captives",
+    29473,
+    7587,
+    37060
+  ],
+  "scholar": [
+    "scholar",
+    "scholars",
+    98726,
+    92386,
+    191112
+  ],
+  "mute": [
+    "mute",
+    "mutes",
+    13273,
+    761,
+    14034
+  ],
+  "changer": [
+    "changer",
+    "changers",
+    7475,
+    2584,
+    10059
+  ],
+  "payer": [
+    "payer",
+    "payers",
+    8917,
+    4738,
+    13655
+  ],
+  "outcast": [
+    "outcast",
+    "outcasts",
+    5159,
+    2635,
+    7794
+  ],
+  "ringer": [
+    "ringer",
+    "ringers",
+    3878,
+    796,
+    4674
+  ],
+  "schoolfriend": [
+    "schoolfriend",
+    "schoolfriends",
+    141,
+    109,
+    250
+  ],
+  "producer": [
+    "producer",
+    "producers",
+    174531,
+    129671,
+    304202
+  ],
+  "missionary": [
+    "missionary",
+    "missionaries",
+    21192,
+    16467,
+    37659
+  ],
+  "busker": [
+    "busker",
+    "buskers",
+    699,
+    641,
+    1340
+  ],
+  "copycat": [
+    "copycat",
+    "copycats",
+    5793,
+    1331,
+    7124
+  ],
+  "acquaintance": [
+    "acquaintance",
+    "acquaintances",
+    13178,
+    9081,
+    22259
+  ],
+  "antiquarian": [
+    "antiquarian",
+    "antiquarians",
+    1833,
+    197,
+    2030
+  ],
+  "stooge": [
+    "stooge",
+    "stooges",
+    1785,
+    3452,
+    5237
+  ],
+  "plebeian": [
+    "plebeian",
+    "plebeians",
+    978,
+    444,
+    1422
+  ],
+  "beholder": [
+    "beholder",
+    "beholders",
+    1326,
+    155,
+    1481
+  ],
+  "antiquary": [
+    "antiquary",
+    "antiquaries",
+    125,
+    240,
+    365
+  ],
+  "architect": [
+    "architect",
+    "architects",
+    56275,
+    39639,
+    95914
+  ],
+  "agent": [
+    "agent",
+    "agents",
+    296265,
+    259730,
+    555995
+  ],
+  "repeater": [
+    "repeater",
+    "repeaters",
+    2657,
+    1060,
+    3717
+  ],
+  "suspect": [
+    "suspect",
+    "suspects",
+    265635,
+    114292,
+    379927
+  ],
+  "preteen": [
+    "preteen",
+    "preteens",
+    1491,
+    459,
+    1950
+  ],
+  "fuller": [
+    "fuller",
+    "fullers",
+    30289,
+    204,
+    30493
+  ],
+  "scourge": [
+    "scourge",
+    "scourges",
+    12839,
+    911,
+    13750
+  ],
+  "holidaymaker": [
+    "holidaymaker",
+    "holidaymakers",
+    299,
+    2009,
+    2308
+  ],
+  "wizard": [
+    "wizard",
+    "wizards",
+    40268,
+    50075,
+    90343
+  ],
+  "helper": [
+    "helper",
+    "helpers",
+    18222,
+    8071,
+    26293
+  ],
+  "runner": [
+    "runner",
+    "runners",
+    56065,
+    44130,
+    100195
+  ],
+  "opposite": [
+    "opposite",
+    "opposites",
+    226284,
+    4358,
+    230642
+  ],
+  "great": [
+    "great",
+    "greats",
+    2766227,
+    9061,
+    2775288
+  ],
+  "zooid": [
+    "zooid",
+    "zooids",
+    52,
+    119,
+    171
+  ],
+  "responder": [
+    "responder",
+    "responders",
+    4165,
+    21679,
+    25844
+  ],
+  "thoroughbred": [
+    "thoroughbred",
+    "thoroughbreds",
+    2681,
+    566,
+    3247
+  ],
+  "foe": [
+    "foe",
+    "foes",
+    16945,
+    21576,
+    38521
+  ],
+  "moron": [
+    "moron",
+    "morons",
+    3656,
+    3454,
+    7110
+  ],
+  "centurion": [
+    "centurion",
+    "centurions",
+    3439,
+    871,
+    4310
+  ],
+  "outdoorsman": [
+    "outdoorsman",
+    "outdoorsmen",
+    743,
+    292,
+    1035
+  ],
+  "enemy": [
+    "enemy",
+    "enemies",
+    258760,
+    159377,
+    418137
+  ],
+  "debtor": [
+    "debtor",
+    "debtors",
+    4175,
+    4494,
+    8669
+  ],
+  "pansy": [
+    "pansy",
+    "pansies",
+    988,
+    299,
+    1287
+  ],
+  "numismatist": [
+    "numismatist",
+    "numismatists",
+    257,
+    248,
+    505
+  ],
+  "creeper": [
+    "creeper",
+    "creepers",
+    2064,
+    1117,
+    3181
+  ],
+  "grownup": [
+    "grownup",
+    "grownups",
+    1128,
+    1312,
+    2440
+  ],
+  "billionaire": [
+    "billionaire",
+    "billionaires",
+    71829,
+    22891,
+    94720
+  ],
+  "giver": [
+    "giver",
+    "givers",
+    3634,
+    1963,
+    5597
+  ],
+  "junior": [
+    "junior",
+    "juniors",
+    165635,
+    9202,
+    174837
+  ],
+  "warmonger": [
+    "warmonger",
+    "warmongers",
+    1082,
+    1394,
+    2476
+  ],
+  "sacrificer": [
+    "sacrificer",
+    "sacrificers",
+    48,
+    23,
+    71
+  ],
+  "lunatic": [
+    "lunatic",
+    "lunatics",
+    8770,
+    2652,
+    11422
+  ],
+  "sibling": [
+    "sibling",
+    "siblings",
+    15055,
+    32713,
+    47768
+  ],
+  "populist": [
+    "populist",
+    "populists",
+    47075,
+    5475,
+    52550
+  ],
+  "bisexual": [
+    "bisexual",
+    "bisexuals",
+    28803,
+    2860,
+    31663
+  ],
+  "angel": [
+    "angel",
+    "angels",
+    71285,
+    52496,
+    123781
+  ],
+  "trustee": [
+    "trustee",
+    "trustees",
+    14256,
+    22130,
+    36386
+  ],
+  "pragmatist": [
+    "pragmatist",
+    "pragmatists",
+    2078,
+    1175,
+    3253
+  ],
+  "claimant": [
+    "claimant",
+    "claimants",
+    5792,
+    11538,
+    17330
+  ],
+  "spotter": [
+    "spotter",
+    "spotters",
+    2500,
+    1804,
+    4304
+  ],
+  "registrant": [
+    "registrant",
+    "registrants",
+    2429,
+    2355,
+    4784
+  ],
+  "apostate": [
+    "apostate",
+    "apostates",
+    2730,
+    2622,
+    5352
+  ],
+  "disciple": [
+    "disciple",
+    "disciples",
+    8693,
+    15346,
+    24039
+  ],
+  "survivalist": [
+    "survivalist",
+    "survivalists",
+    2191,
+    786,
+    2977
+  ],
+  "syndicalist": [
+    "syndicalist",
+    "syndicalists",
+    1840,
+    683,
+    2523
+  ],
+  "sponge": [
+    "sponge",
+    "sponges",
+    11147,
+    3793,
+    14940
+  ],
+  "pugilist": [
+    "pugilist",
+    "pugilists",
+    604,
+    199,
+    803
+  ],
+  "citizen": [
+    "citizen",
+    "citizens",
+    148173,
+    424169,
+    572342
+  ],
+  "roommate": [
+    "roommate",
+    "roommates",
+    15901,
+    7649,
+    23550
+  ],
+  "sitter": [
+    "sitter",
+    "sitters",
+    2794,
+    1094,
+    3888
+  ],
+  "virgin": [
+    "virgin",
+    "virgins",
+    66907,
+    3827,
+    70734
+  ],
+  "holder": [
+    "holder",
+    "holders",
+    71229,
+    57763,
+    128992
+  ],
+  "builder": [
+    "builder",
+    "builders",
+    27762,
+    25069,
+    52831
+  ],
+  "villain": [
+    "villain",
+    "villains",
+    42564,
+    27904,
+    70468
+  ],
+  "arbiter": [
+    "arbiter",
+    "arbiters",
+    7407,
+    2643,
+    10050
+  ],
+  "secessionist": [
+    "secessionist",
+    "secessionists",
+    3825,
+    1180,
+    5005
+  ],
+  "wisp": [
+    "wisp",
+    "wisps",
+    2530,
+    1948,
+    4478
+  ],
+  "descendent": [
+    "descendent",
+    "descendents",
+    2026,
+    2185,
+    4211
+  ],
+  "geek": [
+    "geek",
+    "geeks",
+    27865,
+    13756,
+    41621
+  ],
+  "adjudicator": [
+    "adjudicator",
+    "adjudicators",
+    1096,
+    490,
+    1586
+  ],
+  "bearer": [
+    "bearer",
+    "bearers",
+    9173,
+    3872,
+    13045
+  ],
+  "castaway": [
+    "castaway",
+    "castaways",
+    1763,
+    1674,
+    3437
+  ],
+  "buddy": [
+    "buddy",
+    "buddies",
+    39376,
+    17096,
+    56472
+  ],
+  "freethinker": [
+    "freethinker",
+    "freethinkers",
+    438,
+    1512,
+    1950
+  ],
+  "dictator": [
+    "dictator",
+    "dictators",
+    31781,
+    10532,
+    42313
+  ],
+  "transmitter": [
+    "transmitter",
+    "transmitters",
+    11946,
+    5095,
+    17041
+  ],
+  "candidate": [
+    "candidate",
+    "candidates",
+    506899,
+    347570,
+    854469
+  ],
+  "fugitive": [
+    "fugitive",
+    "fugitives",
+    15669,
+    4476,
+    20145
+  ],
+  "revenant": [
+    "revenant",
+    "revenants",
+    3238,
+    576,
+    3814
+  ],
+  "celebrant": [
+    "celebrant",
+    "celebrants",
+    799,
+    1211,
+    2010
+  ],
+  "cowboy": [
+    "cowboy",
+    "cowboys",
+    22768,
+    73406,
+    96174
+  ],
+  "extremist": [
+    "extremist",
+    "extremists",
+    63574,
+    44445,
+    108019
+  ],
+  "nobody": [
+    "nobody",
+    "nobodies",
+    297278,
+    938,
+    298216
+  ],
+  "spectator": [
+    "spectator",
+    "spectators",
+    16339,
+    21772,
+    38111
+  ],
+  "splitter": [
+    "splitter",
+    "splitters",
+    4739,
+    775,
+    5514
+  ],
+  "actor": [
+    "actor",
+    "actors",
+    199773,
+    143125,
+    342898
+  ],
+  "manipulator": [
+    "manipulator",
+    "manipulators",
+    3795,
+    1858,
+    5653
+  ],
+  "blonde": [
+    "blonde",
+    "blondes",
+    33361,
+    1494,
+    34855
+  ],
+  "captor": [
+    "captor",
+    "captors",
+    1436,
+    5759,
+    7195
+  ],
+  "coward": [
+    "coward",
+    "cowards",
+    9157,
+    3625,
+    12782
+  ],
+  "denier": [
+    "denier",
+    "deniers",
+    4148,
+    7311,
+    11459
+  ],
+  "retainer": [
+    "retainer",
+    "retainers",
+    2601,
+    1285,
+    3886
+  ],
+  "humorist": [
+    "humorist",
+    "humorists",
+    1233,
+    277,
+    1510
+  ],
+  "scientist": [
+    "scientist",
+    "scientists",
+    137342,
+    480352,
+    617694
+  ],
+  "relative": [
+    "relative",
+    "relatives",
+    254163,
+    84651,
+    338814
+  ],
+  "psychic": [
+    "psychic",
+    "psychics",
+    29699,
+    2397,
+    32096
+  ],
+  "accuser": [
+    "accuser",
+    "accusers",
+    8493,
+    8521,
+    17014
+  ],
+  "scout": [
+    "scout",
+    "scouts",
+    58697,
+    49365,
+    108062
+  ],
+  "novice": [
+    "novice",
+    "novices",
+    14569,
+    3609,
+    18178
+  ],
+  "exchanger": [
+    "exchanger",
+    "exchangers",
+    1553,
+    879,
+    2432
+  ],
+  "figure": [
+    "figure",
+    "figures",
+    760376,
+    348399,
+    1108775
+  ],
+  "sheik": [
+    "sheik",
+    "sheiks",
+    6545,
+    649,
+    7194
+  ],
+  "flier": [
+    "flier",
+    "fliers",
+    6759,
+    9655,
+    16414
+  ],
+  "developer": [
+    "developer",
+    "developers",
+    220575,
+    332059,
+    552634
+  ],
+  "beast": [
+    "beast",
+    "beasts",
+    77081,
+    21937,
+    99018
+  ],
+  "theorist": [
+    "theorist",
+    "theorists",
+    12554,
+    21680,
+    34234
+  ],
+  "player": [
+    "player",
+    "players",
+    1194193,
+    1628482,
+    2822675
+  ],
+  "liquidator": [
+    "liquidator",
+    "liquidators",
+    704,
+    1129,
+    1833
+  ],
+  "headman": [
+    "headman",
+    "headmen",
+    489,
+    158,
+    647
+  ],
+  "pet": [
+    "pet",
+    "pets",
+    107029,
+    37318,
+    144347
+  ],
+  "freelancer": [
+    "freelancer",
+    "freelancers",
+    5327,
+    6525,
+    11852
+  ],
+  "flora": [
+    "flora",
+    "floras",
+    14371,
+    104,
+    14475
+  ],
+  "translator": [
+    "translator",
+    "translators",
+    16260,
+    7373,
+    23633
+  ],
+  "specialist": [
+    "specialist",
+    "specialists",
+    80426,
+    36213,
+    116639
+  ],
+  "forerunner": [
+    "forerunner",
+    "forerunners",
+    6863,
+    2052,
+    8915
+  ],
+  "looker": [
+    "looker",
+    "lookers",
+    596,
+    118,
+    714
+  ],
+  "scab": [
+    "scab",
+    "scabs",
+    1708,
+    1427,
+    3135
+  ],
+  "supplicant": [
+    "supplicant",
+    "supplicants",
+    541,
+    424,
+    965
+  ],
+  "worshiper": [
+    "worshiper",
+    "worshipers",
+    638,
+    3727,
+    4365
+  ],
+  "guide": [
+    "guide",
+    "guides",
+    288542,
+    46739,
+    335281
+  ],
+  "pussycat": [
+    "pussycat",
+    "pussycats",
+    921,
+    366,
+    1287
+  ],
+  "layman": [
+    "layman",
+    "laymen",
+    3379,
+    1492,
+    4871
+  ],
+  "behemoth": [
+    "behemoth",
+    "behemoths",
+    12080,
+    3738,
+    15818
+  ],
+  "traveler": [
+    "traveler",
+    "travelers",
+    13161,
+    39453,
+    52614
+  ],
+  "warrior": [
+    "warrior",
+    "warriors",
+    61742,
+    100220,
+    161962
+  ],
+  "boater": [
+    "boater",
+    "boaters",
+    621,
+    2345,
+    2966
+  ],
+  "head": [
+    "head",
+    "heads",
+    1389552,
+    220981,
+    1610533
+  ],
+  "strikebreaker": [
+    "strikebreaker",
+    "strikebreakers",
+    49,
+    459,
+    508
+  ],
+  "traveller": [
+    "traveller",
+    "travellers",
+    8445,
+    18084,
+    26529
+  ],
+  "materialist": [
+    "materialist",
+    "materialists",
+    4999,
+    806,
+    5805
+  ],
+  "debater": [
+    "debater",
+    "debaters",
+    1370,
+    1468,
+    2838
+  ],
+  "lout": [
+    "lout",
+    "louts",
+    400,
+    349,
+    749
+  ],
+  "gentile": [
+    "gentile",
+    "gentiles",
+    5383,
+    3576,
+    8959
+  ],
+  "conservator": [
+    "conservator",
+    "conservators",
+    1620,
+    1052,
+    2672
+  ],
+  "consumer": [
+    "consumer",
+    "consumers",
+    297398,
+    260356,
+    557754
+  ],
+  "spaceman": [
+    "spaceman",
+    "spacemen",
+    880,
+    507,
+    1387
+  ],
+  "patient": [
+    "patient",
+    "patients",
+    214098,
+    448648,
+    662746
+  ],
+  "male": [
+    "male",
+    "males",
+    443669,
+    90666,
+    534335
+  ],
+  "hulk": [
+    "hulk",
+    "hulks",
+    26652,
+    963,
+    27615
+  ],
+  "writer": [
+    "writer",
+    "writers",
+    293224,
+    186923,
+    480147
+  ],
+  "inhabitant": [
+    "inhabitant",
+    "inhabitants",
+    2604,
+    41339,
+    43943
+  ],
+  "party": [
+    "party",
+    "parties",
+    1679913,
+    387168,
+    2067081
+  ],
+  "preserver": [
+    "preserver",
+    "preservers",
+    1054,
+    463,
+    1517
+  ],
+  "honey": [
+    "honey",
+    "honeys",
+    57062,
+    458,
+    57520
+  ],
+  "executioner": [
+    "executioner",
+    "executioners",
+    4454,
+    1712,
+    6166
+  ],
+  "fighter": [
+    "fighter",
+    "fighters",
+    161699,
+    199203,
+    360902
+  ],
+  "trainer": [
+    "trainer",
+    "trainers",
+    37221,
+    22594,
+    59815
+  ],
+  "tapper": [
+    "tapper",
+    "tappers",
+    10213,
+    288,
+    10501
+  ],
+  "knocker": [
+    "knocker",
+    "knockers",
+    371,
+    288,
+    659
+  ],
+  "opener": [
+    "opener",
+    "openers",
+    39590,
+    3340,
+    42930
+  ],
+  "teaser": [
+    "teaser",
+    "teasers",
+    21761,
+    2725,
+    24486
+  ],
+  "man": [
+    "man",
+    "men",
+    2058373,
+    1477560,
+    3535933
+  ],
+  "cultist": [
+    "cultist",
+    "cultists",
+    1507,
+    2684,
+    4191
+  ],
+  "beginner": [
+    "beginner",
+    "beginners",
+    14917,
+    14870,
+    29787
+  ],
+  "barbarian": [
+    "barbarian",
+    "barbarians",
+    8538,
+    5867,
+    14405
+  ],
+  "chicken": [
+    "chicken",
+    "chickens",
+    149491,
+    26550,
+    176041
+  ],
+  "demigod": [
+    "demigod",
+    "demigods",
+    1481,
+    711,
+    2192
+  ],
+  "newsman": [
+    "newsman",
+    "newsmen",
+    1226,
+    526,
+    1752
+  ],
+  "wasp": [
+    "wasp",
+    "wasps",
+    9809,
+    7184,
+    16993
+  ],
+  "organism": [
+    "organism",
+    "organisms",
+    18722,
+    38223,
+    56945
+  ],
+  "experimenter": [
+    "experimenter",
+    "experimenters",
+    4456,
+    3031,
+    7487
+  ],
+  "idler": [
+    "idler",
+    "idlers",
+    712,
+    308,
+    1020
+  ],
+  "aggregator": [
+    "aggregator",
+    "aggregators",
+    5228,
+    2317,
+    7545
+  ],
+  "spade": [
+    "spade",
+    "spades",
+    5482,
+    3970,
+    9452
+  ],
+  "executor": [
+    "executor",
+    "executors",
+    3148,
+    1341,
+    4489
+  ],
+  "propagator": [
+    "propagator",
+    "propagators",
+    445,
+    362,
+    807
+  ],
+  "brute": [
+    "brute",
+    "brutes",
+    18132,
+    1422,
+    19554
+  ],
+  "hero": [
+    "hero",
+    "heroes",
+    190739,
+    136373,
+    327112
+  ],
+  "actress": [
+    "actress",
+    "actresses",
+    90150,
+    12160,
+    102310
+  ],
+  "stringer": [
+    "stringer",
+    "stringers",
+    5289,
+    610,
+    5899
+  ],
+  "internationalist": [
+    "internationalist",
+    "internationalists",
+    4415,
+    900,
+    5315
+  ],
+  "contender": [
+    "contender",
+    "contenders",
+    41063,
+    30134,
+    71197
+  ],
+  "petitioner": [
+    "petitioner",
+    "petitioners",
+    5295,
+    5845,
+    11140
+  ],
+  "weasel": [
+    "weasel",
+    "weasels",
+    5088,
+    999,
+    6087
+  ],
+  "bomber": [
+    "bomber",
+    "bombers",
+    44275,
+    38056,
+    82331
+  ],
+  "dresser": [
+    "dresser",
+    "dressers",
+    3907,
+    673,
+    4580
+  ],
+  "agnostic": [
+    "agnostic",
+    "agnostics",
+    7839,
+    2295,
+    10134
+  ],
+  "surveyor": [
+    "surveyor",
+    "surveyors",
+    4009,
+    2572,
+    6581
+  ],
+  "wannabe": [
+    "wannabe",
+    "wannabes",
+    6886,
+    1396,
+    8282
+  ],
+  "idiot": [
+    "idiot",
+    "idiots",
+    21041,
+    13299,
+    34340
+  ],
+  "sissy": [
+    "sissy",
+    "sissies",
+    1781,
+    257,
+    2038
+  ],
+  "caster": [
+    "caster",
+    "casters",
+    8597,
+    5937,
+    14534
+  ],
+  "reformist": [
+    "reformist",
+    "reformists",
+    9514,
+    2543,
+    12057
+  ],
+  "rat": [
+    "rat",
+    "rats",
+    46030,
+    57252,
+    103282
+  ],
+  "steward": [
+    "steward",
+    "stewards",
+    9664,
+    9153,
+    18817
+  ],
+  "contemporary": [
+    "contemporary",
+    "contemporaries",
+    152691,
+    9638,
+    162329
+  ],
+  "clone": [
+    "clone",
+    "clones",
+    43670,
+    14859,
+    58529
+  ],
+  "rescuer": [
+    "rescuer",
+    "rescuers",
+    1864,
+    12757,
+    14621
+  ],
+  "intellectual": [
+    "intellectual",
+    "intellectuals",
+    168356,
+    22698,
+    191054
+  ],
+  "samurai": [
+    "samurai",
+    "samurais",
+    18928,
+    204,
+    19132
+  ],
+  "entertainer": [
+    "entertainer",
+    "entertainers",
+    6554,
+    5577,
+    12131
+  ],
+  "beater": [
+    "beater",
+    "beaters",
+    2111,
+    1081,
+    3192
+  ],
+  "auditor": [
+    "auditor",
+    "auditors",
+    16370,
+    10688,
+    27058
+  ],
+  "vassal": [
+    "vassal",
+    "vassals",
+    3515,
+    2024,
+    5539
+  ],
+  "catalyst": [
+    "catalyst",
+    "catalysts",
+    34333,
+    5049,
+    39382
+  ],
+  "imitator": [
+    "imitator",
+    "imitators",
+    409,
+    1880,
+    2289
+  ],
+  "ace": [
+    "ace",
+    "aces",
+    51916,
+    8130,
+    60046
+  ],
+  "loser": [
+    "loser",
+    "losers",
+    19871,
+    24029,
+    43900
+  ],
+  "quarryman": [
+    "quarryman",
+    "quarrymen",
+    47,
+    194,
+    241
+  ],
+  "publicist": [
+    "publicist",
+    "publicists",
+    7827,
+    1620,
+    9447
+  ],
+  "politician": [
+    "politician",
+    "politicians",
+    85261,
+    277559,
+    362820
+  ],
+  "terrorist": [
+    "terrorist",
+    "terrorists",
+    295416,
+    128203,
+    423619
+  ],
+  "zombie": [
+    "zombie",
+    "zombies",
+    67293,
+    36298,
+    103591
+  ],
+  "enrollee": [
+    "enrollee",
+    "enrollees",
+    1408,
+    6384,
+    7792
+  ],
+  "pleaser": [
+    "pleaser",
+    "pleasers",
+    548,
+    183,
+    731
+  ],
+  "cripple": [
+    "cripple",
+    "cripples",
+    10583,
+    1534,
+    12117
+  ],
+  "warhorse": [
+    "warhorse",
+    "warhorses",
+    854,
+    172,
+    1026
+  ],
+  "researcher": [
+    "researcher",
+    "researchers",
+    112724,
+    586536,
+    699260
+  ],
+  "finder": [
+    "finder",
+    "finders",
+    9627,
+    1779,
+    11406
+  ],
+  "cousin": [
+    "cousin",
+    "cousins",
+    49538,
+    40521,
+    90059
+  ],
+  "slinger": [
+    "slinger",
+    "slingers",
+    671,
+    410,
+    1081
+  ],
+  "chief": [
+    "chief",
+    "chiefs",
+    930238,
+    83614,
+    1013852
+  ],
+  "planter": [
+    "planter",
+    "planters",
+    3121,
+    3766,
+    6887
+  ],
+  "rationalist": [
+    "rationalist",
+    "rationalists",
+    3321,
+    1348,
+    4669
+  ],
+  "nazi": [
+    "nazi",
+    "nazis",
+    117037,
+    42847,
+    159884
+  ],
+  "washer": [
+    "washer",
+    "washers",
+    4666,
+    2466,
+    7132
+  ],
+  "tactician": [
+    "tactician",
+    "tacticians",
+    2485,
+    597,
+    3082
+  ],
+  "teetotaler": [
+    "teetotaler",
+    "teetotalers",
+    257,
+    154,
+    411
+  ],
+  "counter": [
+    "counter",
+    "counters",
+    183062,
+    23621,
+    206683
+  ],
+  "lefty": [
+    "lefty",
+    "lefties",
+    14605,
+    6811,
+    21416
+  ],
+  "artificer": [
+    "artificer",
+    "artificers",
+    1139,
+    313,
+    1452
+  ],
+  "dwarf": [
+    "dwarf",
+    "dwarves",
+    36582,
+    8124,
+    44706
+  ],
+  "receiver": [
+    "receiver",
+    "receivers",
+    134662,
+    52650,
+    187312
+  ],
+  "worshipper": [
+    "worshipper",
+    "worshippers",
+    1261,
+    7898,
+    9159
+  ],
+  "occupant": [
+    "occupant",
+    "occupants",
+    6825,
+    15213,
+    22038
+  ],
+  "salvor": [
+    "salvor",
+    "salvors",
+    110,
+    90,
+    200
+  ],
+  "interpreter": [
+    "interpreter",
+    "interpreters",
+    19756,
+    6807,
+    26563
+  ],
+  "horticulturist": [
+    "horticulturist",
+    "horticulturists",
+    359,
+    181,
+    540
+  ],
+  "representative": [
+    "representative",
+    "representatives",
+    228263,
+    198721,
+    426984
+  ],
+  "rounder": [
+    "rounder",
+    "rounders",
+    4276,
+    1024,
+    5300
+  ],
+  "witch": [
+    "witch",
+    "witches",
+    50698,
+    13796,
+    64494
+  ],
+  "dweller": [
+    "dweller",
+    "dwellers",
+    2203,
+    8112,
+    10315
+  ],
+  "rusher": [
+    "rusher",
+    "rushers",
+    11728,
+    5882,
+    17610
+  ],
+  "swimmer": [
+    "swimmer",
+    "swimmers",
+    8628,
+    9263,
+    17891
+  ],
+  "archivist": [
+    "archivist",
+    "archivists",
+    3591,
+    1628,
+    5219
+  ],
+  "chum": [
+    "chum",
+    "chums",
+    2631,
+    1083,
+    3714
+  ],
+  "emulator": [
+    "emulator",
+    "emulators",
+    11393,
+    3371,
+    14764
+  ],
+  "midget": [
+    "midget",
+    "midgets",
+    4102,
+    721,
+    4823
+  ],
+  "thinker": [
+    "thinker",
+    "thinkers",
+    10763,
+    24490,
+    35253
+  ],
+  "rambler": [
+    "rambler",
+    "ramblers",
+    917,
+    645,
+    1562
+  ],
+  "aboriginal": [
+    "aboriginal",
+    "aboriginals",
+    45619,
+    1799,
+    47418
+  ],
+  "caregiver": [
+    "caregiver",
+    "caregivers",
+    6650,
+    10714,
+    17364
+  ],
+  "jock": [
+    "jock",
+    "jocks",
+    6240,
+    1913,
+    8153
+  ],
+  "guerilla": [
+    "guerilla",
+    "guerillas",
+    6257,
+    1046,
+    7303
+  ],
+  "class": [
+    "class",
+    "classes",
+    913518,
+    202635,
+    1116153
+  ],
+  "waterman": [
+    "waterman",
+    "watermen",
+    1756,
+    370,
+    2126
+  ],
+  "chap": [
+    "chap",
+    "chaps",
+    4705,
+    2095,
+    6800
+  ],
+  "hybrid": [
+    "hybrid",
+    "hybrids",
+    94391,
+    11371,
+    105762
+  ],
+  "presenter": [
+    "presenter",
+    "presenters",
+    19966,
+    7808,
+    27774
+  ],
+  "suffragist": [
+    "suffragist",
+    "suffragists",
+    554,
+    679,
+    1233
+  ],
+  "agonist": [
+    "agonist",
+    "agonists",
+    4617,
+    3250,
+    7867
+  ],
+  "witness": [
+    "witness",
+    "witnesses",
+    166055,
+    123495,
+    289550
+  ],
+  "contestant": [
+    "contestant",
+    "contestants",
+    14077,
+    19782,
+    33859
+  ],
+  "amateur": [
+    "amateur",
+    "amateurs",
+    67648,
+    7899,
+    75547
+  ],
+  "sultan": [
+    "sultan",
+    "sultans",
+    17895,
+    1116,
+    19011
+  ],
+  "spoiler": [
+    "spoiler",
+    "spoilers",
+    30630,
+    20296,
+    50926
+  ],
+  "superstar": [
+    "superstar",
+    "superstars",
+    36708,
+    12724,
+    49432
+  ],
+  "signatory": [
+    "signatory",
+    "signatories",
+    6274,
+    11312,
+    17586
+  ],
+  "westerner": [
+    "westerner",
+    "westerners",
+    1642,
+    11961,
+    13603
+  ],
+  "replacement": [
+    "replacement",
+    "replacements",
+    143318,
+    15227,
+    158545
+  ],
+  "topper": [
+    "topper",
+    "toppers",
+    2650,
+    1031,
+    3681
+  ],
+  "townsman": [
+    "townsman",
+    "townsmen",
+    112,
+    234,
+    346
+  ],
+  "controller": [
+    "controller",
+    "controllers",
+    96056,
+    37150,
+    133206
+  ],
+  "animator": [
+    "animator",
+    "animators",
+    8445,
+    7778,
+    16223
+  ],
+  "competition": [
+    "competition",
+    "competitions",
+    333569,
+    30010,
+    363579
+  ],
+  "businessperson": [
+    "businessperson",
+    "businesspeople",
+    803,
+    3522,
+    4325
+  ],
+  "charmer": [
+    "charmer",
+    "charmers",
+    1023,
+    292,
+    1315
+  ],
+  "propagandist": [
+    "propagandist",
+    "propagandists",
+    3413,
+    4275,
+    7688
+  ],
+  "occult": [
+    "occult",
+    "occults",
+    15824,
+    91,
+    15915
+  ],
+  "revolutionary": [
+    "revolutionary",
+    "revolutionaries",
+    152328,
+    14010,
+    166338
+  ],
+  "namesake": [
+    "namesake",
+    "namesakes",
+    9489,
+    422,
+    9911
+  ],
+  "estimator": [
+    "estimator",
+    "estimators",
+    1851,
+    812,
+    2663
+  ],
+  "choreographer": [
+    "choreographer",
+    "choreographers",
+    2818,
+    642,
+    3460
+  ],
+  "proponent": [
+    "proponent",
+    "proponents",
+    18988,
+    48141,
+    67129
+  ],
+  "personification": [
+    "personification",
+    "personifications",
+    4186,
+    471,
+    4657
+  ],
+  "recipient": [
+    "recipient",
+    "recipients",
+    42592,
+    44845,
+    87437
+  ],
+  "occultist": [
+    "occultist",
+    "occultists",
+    1324,
+    875,
+    2199
+  ],
+  "whale": [
+    "whale",
+    "whales",
+    50883,
+    37849,
+    88732
+  ],
+  "hanger": [
+    "hanger",
+    "hangers",
+    4473,
+    2044,
+    6517
+  ],
+  "savage": [
+    "savage",
+    "savages",
+    48936,
+    3516,
+    52452
+  ],
+  "speculator": [
+    "speculator",
+    "speculators",
+    1487,
+    9186,
+    10673
+  ],
+  "bullfighter": [
+    "bullfighter",
+    "bullfighters",
+    442,
+    157,
+    599
+  ],
+  "gull": [
+    "gull",
+    "gulls",
+    2784,
+    3201,
+    5985
+  ],
+  "pitcher": [
+    "pitcher",
+    "pitchers",
+    63997,
+    41173,
+    105170
+  ],
+  "musher": [
+    "musher",
+    "mushers",
+    346,
+    429,
+    775
+  ],
+  "survivor": [
+    "survivor",
+    "survivors",
+    47669,
+    77634,
+    125303
+  ],
+  "machine": [
+    "machine",
+    "machines",
+    382474,
+    163748,
+    546222
+  ],
+  "democrat": [
+    "democrat",
+    "democrats",
+    175066,
+    546363,
+    721429
+  ],
+  "blogger": [
+    "blogger",
+    "bloggers",
+    48537,
+    30692,
+    79229
+  ],
+  "workmate": [
+    "workmate",
+    "workmates",
+    215,
+    672,
+    887
+  ],
+  "ascetic": [
+    "ascetic",
+    "ascetics",
+    3489,
+    753,
+    4242
+  ],
+  "guerrilla": [
+    "guerrilla",
+    "guerrillas",
+    23664,
+    6884,
+    30548
+  ],
+  "hugger": [
+    "hugger",
+    "huggers",
+    466,
+    363,
+    829
+  ],
+  "deist": [
+    "deist",
+    "deists",
+    675,
+    476,
+    1151
+  ],
+  "dribbler": [
+    "dribbler",
+    "dribblers",
+    548,
+    180,
+    728
+  ],
+  "favorite": [
+    "favorite",
+    "favorites",
+    566791,
+    39200,
+    605991
+  ],
+  "advocate": [
+    "advocate",
+    "advocates",
+    129120,
+    169090,
+    298210
+  ],
+  "infidel": [
+    "infidel",
+    "infidels",
+    2622,
+    3322,
+    5944
+  ],
+  "retard": [
+    "retard",
+    "retards",
+    2357,
+    1044,
+    3401
+  ],
+  "treasurer": [
+    "treasurer",
+    "treasurers",
+    22001,
+    598,
+    22599
+  ],
+  "brunette": [
+    "brunette",
+    "brunettes",
+    5020,
+    294,
+    5314
+  ],
+  "litigant": [
+    "litigant",
+    "litigants",
+    1055,
+    2550,
+    3605
+  ],
+  "lord": [
+    "lord",
+    "lords",
+    237751,
+    34623,
+    272374
+  ],
+  "winner": [
+    "winner",
+    "winners",
+    192575,
+    95521,
+    288096
+  ],
+  "fox": [
+    "fox",
+    "foxes",
+    429049,
+    10604,
+    439653
+  ],
+  "plantsman": [
+    "plantsman",
+    "plantsmen",
+    13,
+    1,
+    14
+  ],
+  "director": [
+    "director",
+    "directors",
+    1075374,
+    90402,
+    1165776
+  ],
+  "mutant": [
+    "mutant",
+    "mutants",
+    28804,
+    11040,
+    39844
+  ],
+  "mortal": [
+    "mortal",
+    "mortals",
+    34611,
+    5028,
+    39639
+  ],
+  "employee": [
+    "employee",
+    "employees",
+    200643,
+    435134,
+    635777
+  ],
+  "puller": [
+    "puller",
+    "pullers",
+    1055,
+    424,
+    1479
+  ],
+  "troublemaker": [
+    "troublemaker",
+    "troublemakers",
+    1592,
+    2295,
+    3887
+  ],
+  "plant": [
+    "plant",
+    "plants",
+    341368,
+    238723,
+    580091
+  ],
+  "coder": [
+    "coder",
+    "coders",
+    3689,
+    5606,
+    9295
+  ],
+  "inferior": [
+    "inferior",
+    "inferiors",
+    36008,
+    412,
+    36420
+  ],
+  "creditor": [
+    "creditor",
+    "creditors",
+    5230,
+    21247,
+    26477
+  ],
+  "friend": [
+    "friend",
+    "friends",
+    541766,
+    796235,
+    1338001
+  ],
+  "kid": [
+    "kid",
+    "kids",
+    188924,
+    557940,
+    746864
+  ],
+  "dissenter": [
+    "dissenter",
+    "dissenters",
+    1161,
+    5676,
+    6837
+  ],
+  "scoundrel": [
+    "scoundrel",
+    "scoundrels",
+    1406,
+    1477,
+    2883
+  ],
+  "boatman": [
+    "boatman",
+    "boatmen",
+    702,
+    526,
+    1228
+  ],
+  "hedonist": [
+    "hedonist",
+    "hedonists",
+    452,
+    258,
+    710
+  ],
+  "self": [
+    "self",
+    "selves",
+    194672,
+    7631,
+    202303
+  ],
+  "reporter": [
+    "reporter",
+    "reporters",
+    211728,
+    263164,
+    474892
+  ],
+  "khan": [
+    "khan",
+    "khans",
+    90579,
+    3075,
+    93654
+  ],
+  "informant": [
+    "informant",
+    "informants",
+    16362,
+    9681,
+    26043
+  ],
+  "darling": [
+    "darling",
+    "darlings",
+    21115,
+    2531,
+    23646
+  ],
+  "planner": [
+    "planner",
+    "planners",
+    15635,
+    26112,
+    41747
+  ],
+  "demon": [
+    "demon",
+    "demons",
+    40968,
+    30127,
+    71095
+  ],
+  "resident": [
+    "resident",
+    "residents",
+    168263,
+    452813,
+    621076
+  ],
+  "adventurer": [
+    "adventurer",
+    "adventurers",
+    6950,
+    8770,
+    15720
+  ],
+  "assignee": [
+    "assignee",
+    "assignees",
+    421,
+    164,
+    585
+  ],
+  "churchgoer": [
+    "churchgoer",
+    "churchgoers",
+    377,
+    2382,
+    2759
+  ],
+  "slave": [
+    "slave",
+    "slaves",
+    77530,
+    57420,
+    134950
+  ],
+  "supporter": [
+    "supporter",
+    "supporters",
+    87759,
+    395558,
+    483317
+  ],
+  "correspondent": [
+    "correspondent",
+    "correspondents",
+    62831,
+    13422,
+    76253
+  ],
+  "descendant": [
+    "descendant",
+    "descendants",
+    10774,
+    30422,
+    41196
+  ],
+  "booster": [
+    "booster",
+    "boosters",
+    26185,
+    10990,
+    37175
+  ],
+  "person": [
+    "person",
+    "people",
+    1285464,
+    9341934,
+    10627398
+  ],
+  "combatant": [
+    "combatant",
+    "combatants",
+    6303,
+    11206,
+    17509
+  ],
+  "patriot": [
+    "patriot",
+    "patriots",
+    42472,
+    93250,
+    135722
+  ],
+  "comer": [
+    "comer",
+    "comers",
+    3027,
+    1884,
+    4911
+  ],
+  "plotter": [
+    "plotter",
+    "plotters",
+    1030,
+    3492,
+    4522
+  ],
+  "body": [
+    "body",
+    "bodies",
+    1036949,
+    241587,
+    1278536
+  ],
+  "goon": [
+    "goon",
+    "goons",
+    3769,
+    5611,
+    9380
+  ],
+  "runaway": [
+    "runaway",
+    "runaways",
+    23213,
+    2590,
+    25803
+  ],
+  "rover": [
+    "rover",
+    "rovers",
+    35275,
+    14012,
+    49287
+  ],
+  "capitalist": [
+    "capitalist",
+    "capitalists",
+    88834,
+    20133,
+    108967
+  ],
+  "companion": [
+    "companion",
+    "companions",
+    58412,
+    22314,
+    80726
+  ],
+  "caller": [
+    "caller",
+    "callers",
+    45800,
+    10511,
+    56311
+  ],
+  "opposition": [
+    "opposition",
+    "oppositions",
+    467424,
+    1801,
+    469225
+  ],
+  "protectionist": [
+    "protectionist",
+    "protectionists",
+    8002,
+    387,
+    8389
+  ],
+  "viewer": [
+    "viewer",
+    "viewers",
+    44091,
+    140540,
+    184631
+  ],
+  "idealist": [
+    "idealist",
+    "idealists",
+    3203,
+    2080,
+    5283
+  ],
+  "antagonist": [
+    "antagonist",
+    "antagonists",
+    12276,
+    6215,
+    18491
+  ],
+  "applicant": [
+    "applicant",
+    "applicants",
+    21197,
+    49503,
+    70700
+  ],
+  "protagonist": [
+    "protagonist",
+    "protagonists",
+    34384,
+    12718,
+    47102
+  ],
+  "parasite": [
+    "parasite",
+    "parasites",
+    14368,
+    13015,
+    27383
+  ],
+  "rafter": [
+    "rafter",
+    "rafters",
+    766,
+    3559,
+    4325
+  ],
+  "stranger": [
+    "stranger",
+    "strangers",
+    68755,
+    41913,
+    110668
+  ],
+  "technician": [
+    "technician",
+    "technicians",
+    18692,
+    18233,
+    36925
+  ],
+  "poster": [
+    "poster",
+    "posters",
+    78313,
+    50297,
+    128610
+  ],
+  "powerhouse": [
+    "powerhouse",
+    "powerhouses",
+    21844,
+    4054,
+    25898
+  ],
+  "savior": [
+    "savior",
+    "saviors",
+    15750,
+    2053,
+    17803
+  ],
+  "administrator": [
+    "administrator",
+    "administrators",
+    61210,
+    57008,
+    118218
+  ],
+  "selector": [
+    "selector",
+    "selectors",
+    12057,
+    8385,
+    20442
+  ],
+  "amputee": [
+    "amputee",
+    "amputees",
+    2353,
+    1728,
+    4081
+  ],
+  "poisoner": [
+    "poisoner",
+    "poisoners",
+    330,
+    218,
+    548
+  ],
+  "distributor": [
+    "distributor",
+    "distributors",
+    18499,
+    19609,
+    38108
+  ],
+  "modifier": [
+    "modifier",
+    "modifiers",
+    14462,
+    6303,
+    20765
+  ],
+  "gatekeeper": [
+    "gatekeeper",
+    "gatekeepers",
+    4921,
+    5440,
+    10361
+  ],
+  "nonconformist": [
+    "nonconformist",
+    "nonconformists",
+    751,
+    255,
+    1006
+  ],
+  "pacifist": [
+    "pacifist",
+    "pacifists",
+    6077,
+    1463,
+    7540
+  ],
+  "turncoat": [
+    "turncoat",
+    "turncoats",
+    850,
+    331,
+    1181
+  ],
+  "athlete": [
+    "athlete",
+    "athletes",
+    58866,
+    116006,
+    174872
+  ],
+  "theoretician": [
+    "theoretician",
+    "theoreticians",
+    771,
+    1015,
+    1786
+  ],
+  "offspring": [
+    "offspring",
+    "offsprings",
+    29227,
+    175,
+    29402
+  ],
+  "healer": [
+    "healer",
+    "healers",
+    7254,
+    4972,
+    12226
+  ],
+  "lot": [
+    "lot",
+    "lots",
+    2775567,
+    360227,
+    3135794
+  ],
+  "father": [
+    "father",
+    "fathers",
+    560727,
+    57378,
+    618105
+  ],
+  "metallurgist": [
+    "metallurgist",
+    "metallurgists",
+    274,
+    203,
+    477
+  ],
+  "avatar": [
+    "avatar",
+    "avatars",
+    32727,
+    8563,
+    41290
+  ],
+  "commentator": [
+    "commentator",
+    "commentators",
+    34298,
+    43224,
+    77522
+  ],
+  "boss": [
+    "boss",
+    "bosses",
+    180377,
+    48969,
+    229346
+  ],
+  "belligerent": [
+    "belligerent",
+    "belligerents",
+    8781,
+    1088,
+    9869
+  ],
+  "native": [
+    "native",
+    "natives",
+    367344,
+    19769,
+    387113
+  ],
+  "boyfriend": [
+    "boyfriend",
+    "boyfriends",
+    51994,
+    4046,
+    56040
+  ],
+  "nationalist": [
+    "nationalist",
+    "nationalists",
+    71245,
+    25989,
+    97234
+  ],
+  "farmer": [
+    "farmer",
+    "farmers",
+    55493,
+    170886,
+    226379
+  ],
+  "guardian": [
+    "guardian",
+    "guardians",
+    142509,
+    35886,
+    178395
+  ],
+  "minor": [
+    "minor",
+    "minors",
+    273713,
+    30644,
+    304357
+  ],
+  "progressive": [
+    "progressive",
+    "progressives",
+    225347,
+    36828,
+    262175
+  ],
+  "sympathizer": [
+    "sympathizer",
+    "sympathizers",
+    2118,
+    6120,
+    8238
+  ],
+  "wrongdoer": [
+    "wrongdoer",
+    "wrongdoers",
+    402,
+    1190,
+    1592
+  ],
+  "nudist": [
+    "nudist",
+    "nudists",
+    3149,
+    1128,
+    4277
+  ],
+  "realist": [
+    "realist",
+    "realists",
+    6623,
+    2829,
+    9452
+  ],
+  "fauna": [
+    "fauna",
+    "faunas",
+    8444,
+    300,
+    8744
+  ],
+  "devotee": [
+    "devotee",
+    "devotees",
+    3495,
+    8903,
+    12398
+  ],
+  "heavyweight": [
+    "heavyweight",
+    "heavyweights",
+    45033,
+    7140,
+    52173
+  ],
+  "reformer": [
+    "reformer",
+    "reformers",
+    4929,
+    12259,
+    17188
+  ],
+  "admirer": [
+    "admirer",
+    "admirers",
+    6444,
+    6882,
+    13326
+  ],
+  "logistician": [
+    "logistician",
+    "logisticians",
+    120,
+    174,
+    294
+  ],
+  "professional": [
+    "professional",
+    "professionals",
+    473027,
+    99041,
+    572068
+  ],
+  "rectifier": [
+    "rectifier",
+    "rectifiers",
+    838,
+    211,
+    1049
+  ],
+  "captain": [
+    "captain",
+    "captains",
+    253483,
+    16668,
+    270151
+  ],
+  "biologist": [
+    "biologist",
+    "biologists",
+    26008,
+    18230,
+    44238
+  ],
+  "microorganism": [
+    "microorganism",
+    "microorganisms",
+    880,
+    7401,
+    8281
+  ],
+  "shrimp": [
+    "shrimp",
+    "shrimps",
+    19830,
+    935,
+    20765
+  ],
+  "wiper": [
+    "wiper",
+    "wipers",
+    2178,
+    1507,
+    3685
+  ],
+  "respondent": [
+    "respondent",
+    "respondents",
+    10520,
+    91738,
+    102258
+  ],
+  "jumper": [
+    "jumper",
+    "jumpers",
+    13840,
+    6452,
+    20292
+  ],
+  "sponsor": [
+    "sponsor",
+    "sponsors",
+    65597,
+    48205,
+    113802
+  ],
+  "dupe": [
+    "dupe",
+    "dupes",
+    3183,
+    1850,
+    5033
+  ],
+  "adolescent": [
+    "adolescent",
+    "adolescents",
+    26820,
+    18675,
+    45495
+  ],
+  "signaller": [
+    "signaller",
+    "signallers",
+    198,
+    145,
+    343
+  ],
+  "sufferer": [
+    "sufferer",
+    "sufferers",
+    2950,
+    9269,
+    12219
+  ],
+  "specifier": [
+    "specifier",
+    "specifiers",
+    832,
+    467,
+    1299
+  ],
+  "wanderer": [
+    "wanderer",
+    "wanderers",
+    2932,
+    9060,
+    11992
+  ],
+  "bookmaker": [
+    "bookmaker",
+    "bookmakers",
+    1363,
+    2639,
+    4002
+  ],
+  "juvenile": [
+    "juvenile",
+    "juveniles",
+    47332,
+    10197,
+    57529
+  ],
+  "wearer": [
+    "wearer",
+    "wearers",
+    6700,
+    2432,
+    9132
+  ],
+  "starter": [
+    "starter",
+    "starters",
+    85343,
+    36256,
+    121599
+  ],
+  "shaker": [
+    "shaker",
+    "shakers",
+    6143,
+    2982,
+    9125
+  ],
+  "bum": [
+    "bum",
+    "bums",
+    8081,
+    3082,
+    11163
+  ],
+  "processor": [
+    "processor",
+    "processors",
+    69608,
+    34350,
+    103958
+  ],
+  "lesbian": [
+    "lesbian",
+    "lesbians",
+    58344,
+    18989,
+    77333
+  ],
+  "swordsman": [
+    "swordsman",
+    "swordsmen",
+    2783,
+    782,
+    3565
+  ],
+  "instigator": [
+    "instigator",
+    "instigators",
+    2678,
+    1448,
+    4126
+  ],
+  "republican": [
+    "republican",
+    "republicans",
+    1037677,
+    619045,
+    1656722
+  ],
+  "naturist": [
+    "naturist",
+    "naturists",
+    2096,
+    789,
+    2885
+  ],
+  "orphan": [
+    "orphan",
+    "orphans",
+    12912,
+    7628,
+    20540
+  ],
+  "lover": [
+    "lover",
+    "lovers",
+    30166,
+    36505,
+    66671
+  ],
+  "parachutist": [
+    "parachutist",
+    "parachutists",
+    464,
+    296,
+    760
+  ],
+  "performer": [
+    "performer",
+    "performers",
+    26881,
+    36524,
+    63405
+  ],
+  "queen": [
+    "queen",
+    "queens",
+    166245,
+    44241,
+    210486
+  ],
+  "killer": [
+    "killer",
+    "killers",
+    112088,
+    27958,
+    140046
+  ],
+  "drawer": [
+    "drawer",
+    "drawers",
+    12388,
+    5319,
+    17707
+  ],
+  "zealot": [
+    "zealot",
+    "zealots",
+    4735,
+    7341,
+    12076
+  ],
+  "dropout": [
+    "dropout",
+    "dropouts",
+    7558,
+    3230,
+    10788
+  ],
+  "announcer": [
+    "announcer",
+    "announcers",
+    13271,
+    4790,
+    18061
+  ],
+  "allocator": [
+    "allocator",
+    "allocators",
+    2767,
+    684,
+    3451
+  ],
+  "partisan": [
+    "partisan",
+    "partisans",
+    74546,
+    9746,
+    84292
+  ],
+  "nihilist": [
+    "nihilist",
+    "nihilists",
+    1490,
+    751,
+    2241
+  ],
+  "denizen": [
+    "denizen",
+    "denizens",
+    1204,
+    6409,
+    7613
+  ],
+  "authority": [
+    "authority",
+    "authorities",
+    381264,
+    501897,
+    883161
+  ],
+  "star": [
+    "star",
+    "stars",
+    832762,
+    308789,
+    1141551
+  ],
+  "explorer": [
+    "explorer",
+    "explorers",
+    45025,
+    14386,
+    59411
+  ],
+  "beloved": [
+    "beloved",
+    "beloveds",
+    93866,
+    97,
+    93963
+  ],
+  "amir": [
+    "amir",
+    "amirs",
+    15694,
+    147,
+    15841
+  ],
+  "mover": [
+    "mover",
+    "movers",
+    5738,
+    6198,
+    11936
+  ],
+  "negotiator": [
+    "negotiator",
+    "negotiators",
+    11606,
+    18663,
+    30269
+  ],
+  "insurgent": [
+    "insurgent",
+    "insurgents",
+    19540,
+    26709,
+    46249
+  ],
+  "cashier": [
+    "cashier",
+    "cashiers",
+    7243,
+    2111,
+    9354
+  ],
+  "family": [
+    "family",
+    "families",
+    1698371,
+    468573,
+    2166944
+  ],
+  "cosmonaut": [
+    "cosmonaut",
+    "cosmonauts",
+    3588,
+    2930,
+    6518
+  ],
+  "polymorph": [
+    "polymorph",
+    "polymorphs",
+    1060,
+    118,
+    1178
+  ],
+  "maker": [
+    "maker",
+    "makers",
+    79167,
+    84270,
+    163437
+  ],
+  "rider": [
+    "rider",
+    "riders",
+    59330,
+    89015,
+    148345
+  ],
+  "interloper": [
+    "interloper",
+    "interlopers",
+    1159,
+    1148,
+    2307
+  ],
+  "flyer": [
+    "flyer",
+    "flyers",
+    16207,
+    40549,
+    56756
+  ],
+  "perfectionist": [
+    "perfectionist",
+    "perfectionists",
+    2644,
+    654,
+    3298
+  ]
+}
